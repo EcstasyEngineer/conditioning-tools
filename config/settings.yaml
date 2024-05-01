@@ -9,3 +9,4 @@ aws:
 storage:
   mode: "json" [options json or db]
   url: "sqlite:///your_database_path_here.db"
+  
