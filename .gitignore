@@ -1,6 +1,11 @@
 # Project specific
 logs/*.log
-config/*.settings.yaml
+config/*.yaml
+# Ignore all YAML files
+*.yaml
+
+# But re-include the template YAML file
+!settings.template.yaml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -163,4 +168,3 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 
-config/settings.yaml
