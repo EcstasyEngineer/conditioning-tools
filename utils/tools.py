@@ -1,24 +1,36 @@
 import re
 
-def template_to_text(line, subject, dominant):
+def template_to_text(line, perspective, dominant, direct_conversation=False):
     # Dictionary mappings for different grammatical persons
     subject_switch = {
         "1PS": "I",
-        "1PP": "We",
-        "2PS": "You",
+        "1PP": "we",
+        "2PS": "you",
         "3PS": "Bambi"
     }
-    object_switch = {
+    subject_objective = {
         "1PS": "me",
         "1PP": "us",
         "2PS": "you",
         "3PS": "Bambi"
     }
-    possessive_switch = {
+    subject_possessive = {
         "1PS": "my",
         "1PP": "our",
         "2PS": "your",
         "3PS": "Bambi's"
+    }
+    dominant_objective = {
+        "1PS": "you" if direct_conversation else "them",
+        "1PP": "you" if direct_conversation else "them",
+        "2PS": "me" if direct_conversation else "them",
+        "3PS": "me" if direct_conversation else "them"
+    }
+    dominant_possessive = {
+        "1PS": "your" if direct_conversation else "their",
+        "1PP": "your" if direct_conversation else "their",
+        "2PS": "my" if direct_conversation else "their",
+        "3PS": "my" if direct_conversation else "their"
     }
 
     # Replace dominant and check if placeholders exist
@@ -26,26 +38,36 @@ def template_to_text(line, subject, dominant):
     has_dominant = "{dominant}" in line
 
     # Replace subjects, objects, and possessives
-    replace_subject = subject_switch.get(subject, "") if subject is not None else ""
-    replace_object = object_switch.get(subject, "") if subject is not None else ""
-    replace_possessive = possessive_switch.get(subject, "") if subject is not None else ""
+    replace_subject = subject_switch.get(perspective, "") if perspective is not None else ""
+    replace_subject_objective = subject_objective.get(perspective, "") if perspective is not None else ""
+    replace_subject_possessive = subject_possessive.get(perspective, "") if perspective is not None else ""
+    replace_dominant_objective = dominant_objective.get(perspective, "") if perspective is not None else ""
+    replace_dominant_possessive = dominant_possessive.get(perspective, "") if perspective is not None else ""
 
-    # Regex to find verb forms like [feel|feels|feel|feels] and replace based on subject
+    # Regex to find complex conjugation verb forms like [am|are|are|is] and replace based on subject
     verb_pattern = re.compile(r'\[(\w+)\|(\w+)\|(\w+)\|(\w+)\]')
     subject_index = {"1PS": 0, "1PP": 1, "2PS": 2, "3PS": 3}
-    verb_index = subject_index.get(subject, 0)
+    verb_index = subject_index.get(perspective, 0)
+    
+    # Regex to replace simpler verb forms like [go|goes] based on subject
+    verb_pattern_simple = re.compile(r'\[(\w+)\|(\w+)\]')
+    subject_index_simple = {"1PS": 0, "1PP": 0, "2PS": 0, "3PS": 1}
+    verb_index_simple = subject_index_simple.get(perspective, 0)
 
-    def verb_replacer(match):
+    def verb_replacer(match,index):
         verbs = match.group(0).strip('[]').split('|')
-        return verbs[verb_index]
+        return verbs[index]
 
-    line = verb_pattern.sub(verb_replacer, line)
+    line = verb_pattern.sub(verb_replacer(index=verb_index), line)
+    line = verb_pattern_simple.sub(verb_replacer(index=verb_index_simple), line)
 
     # Format the line with replacements
     formatted_line = line.format(subject=replace_subject, 
                                  dominant=replace_dominant,
-                                 object=replace_object,
-                                 possessive=replace_possessive)
+                                 subject_objective=replace_subject_objective,
+                                 subject_possessive=replace_subject_possessive,
+                                 dominant_objective=replace_dominant_objective,
+                                 dominant_possessive=replace_dominant_possessive)
 
     # Check for subject to determine if replacement occurred
     has_subject = any(kw in formatted_line for kw in subject_switch.values())

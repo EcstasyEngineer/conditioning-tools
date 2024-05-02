@@ -27,6 +27,7 @@ polly_client = boto3.client(
 
 # Example usage
 theme="gratitude"
+dominant="Master"
 subject = "1PS"
 with open(f'{theme}.txt', 'r') as file:
     for line in file:
