@@ -9,6 +9,5 @@ aws:
   region_name: "your_aws_region"
 
 storage:
-  mode: "json" [options json or db]
-  url: "sqlite:///your_database_path_here.db"
+  url: "sqlite://./data/database.db"
   
