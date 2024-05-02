@@ -1,29 +1,118 @@
-    yearn,yearn|yearns,
-    worship,worship|worships,
-    walk,walk|walks,
-    take,take|takes,
-    surrender,surrender|surrenders,
-    seek,seek|seeks,
-    relinquish,relinquish|relinquishes,
-    pledge,pledge|pledges,
-    plead,plead|pleads,
-    offer,offer|offers,
-    need,need|needs,
-    kneel,kneel|kneels,
-    inhale,inhale|inhales,
-    implore,implore|implores,
-    honor,honor|honors,
-    go,go|goes,
-    find,find|finds,
-    experience,experience|experiences,
-    exist,exist|exists,
-    embrace,embrace|embraces,
-    dream,dream|dreams,
-    draw,draw|draws,
-    discover,discover|discovers,
-    deepen,deepen|deepens,
-    crave,crave|craves,
-    cherish,cherish|cherishes,
-    beseech,beseech|beseeches,
-    beg,beg|begs,
-    am,am|are|are|is
+accept,accept|accepts
+act,act|acts
+actualize,actualize|actualizes
+adopt,adopt|adopts
+align,align|aligns
+am,am|are|are|is
+awaken,awaken|awakens
+become,become|becomes
+beg,beg|begs
+belong,belong|belongs
+beseech,beseech|beseeches
+break,break|breaks
+breathe,breathe|breathes
+can,can|can
+cherish,cherish|cherishes
+command,command|commands
+condition,condition|conditions
+consume,consume|consumes
+crave,crave|craves
+cultivate,cultivate|cultivates
+deepen,deepen|deepens
+deny,deny|denies
+desire,desire|desires
+discover,discover|discovers
+dive,dive|dives
+do,do|does
+dominate,dominate|dominates
+draw,draw|draws
+dream,dream|dreams
+embody,embody|embodies
+embrace,embrace|embraces
+embrace,embrace|embraces
+empty,empty|empties
+enchant,enchant|enchants
+enslave,enslave|enslaves
+enter,enter|enters
+entrance,entrance|entrances
+envision,envision|envisions
+evolve,evolve|evolves
+exist,exist|exists
+experience,experience|experiences
+feel,feel|feels
+find,find|finds
+follow,follow|follows
+foster,foster|fosters
+give,give|gives
+go,go|goes
+grow,grow|grows
+guide,guide|guides
+have,have|has
+hear,hear|hears
+honor,honor|honors
+hypnotize,hypnotize|hypnotizes
+implore,implore|implores
+induce,induce|induces
+influence,influence|influences
+inhale,inhale|inhales
+invoke,invoke|invokes
+kneel,kneel|kneels
+know,know|knows
+lead,lead|leads
+let,let|lets
+live,live|lives
+long,long|longs
+lose,lose|loses
+make,make|makes
+manifest,manifest|manifests
+manipulate,manipulate|manipulates
+mesmerize,mesmerize|mesmerizes
+move,move|moves
+must,must|must
+need,need|needs
+obey,obey|obeys
+obligate,obligate|obligates
+offer,offer|offers
+open,open|opens
+persuade,persuade|persuades
+place,place|places
+plead,plead|pleads
+pledge,pledge|pledges
+realign,realign|realigns
+rediscover,rediscover|rediscovers
+reframe,reframe|reframes
+refuse,refuse|refuses
+reinvent,reinvent|reinvents
+rejuvenate,rejuvenate|rejuvenates
+relax,relax|relaxes
+relinquish,relinquish|relinquishes
+rely,rely|relies
+renew,renew|renews
+reprogram,reprogram|reprograms
+revel,revel|revels
+revitalize,revitalize|revitalizes
+risk,risk|risks
+sacrifice,sacrifice|sacrifices
+seduce,seduce|seduces
+seek,seek|seeks
+serve,serve|serves
+soothe,soothe|soothes
+stimulate,stimulate|stimulates
+stop,stop|stops
+subdue,subdue|subdues
+submit,submit|submits
+surrender,surrender|surrenders
+take,take|takes
+think,think|thinks
+thrive,thrive|thrives
+transfix,transfix|transfixes
+transform,transform|transforms
+trust,trust|trusts
+wait,wait|waits
+walk,walk|walks
+want,want|wants
+welcome,welcome|welcomes
+will,will|will
+withhold,withhold|withholds
+worship,worship|worships
+yearn,yearn|yearns
