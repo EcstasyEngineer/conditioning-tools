@@ -34,13 +34,15 @@ def template_to_text(line, perspective, dominant, direct_conversation=False):
     }
 
     # Replace dominant and check if placeholders exist
-    replace_dominant = dominant if dominant is not None else ""
-    has_dominant = "{dominant}" in line
+    has_subject = "{subject}" in line or "{subject_objective}" in line or "{subject_possessive}" in line
+    has_dominant = "{dominant}" in line or "{dominant_objective}" in line or "{dominant_possessive}" in line
 
     # Replace subjects, objects, and possessives
+
     replace_subject = subject_switch.get(perspective, "") if perspective is not None else ""
     replace_subject_objective = subject_objective.get(perspective, "") if perspective is not None else ""
     replace_subject_possessive = subject_possessive.get(perspective, "") if perspective is not None else ""
+    replace_dominant = dominant if dominant is not None else ""
     replace_dominant_objective = dominant_objective.get(perspective, "") if perspective is not None else ""
     replace_dominant_possessive = dominant_possessive.get(perspective, "") if perspective is not None else ""
 
@@ -69,8 +71,6 @@ def template_to_text(line, perspective, dominant, direct_conversation=False):
                                  dominant_objective=replace_dominant_objective,
                                  dominant_possessive=replace_dominant_possessive)
 
-    # Check for subject to determine if replacement occurred
-    has_subject = any(kw in formatted_line for kw in subject_switch.values())
     
     return formatted_line, has_subject, has_dominant
 

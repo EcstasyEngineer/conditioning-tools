@@ -25,13 +25,23 @@ polly_client = boto3.client(
 )
 
 # Example usage
-theme=["gratitude", "discipline", "broken", "bimbo", "empty"]
-dominant="Master"
-subject = "1PS"
-with open(os.path.join("preconverted",f'{theme}.txt'), 'r') as file:
-    for line in file:
-        real_text, contains_subject, contains_dominant= template_to_text(line)
-        audio_path = text_to_file(real_text)
-        insert_into_db(line, real_text, subject, dominant, 'theme', 'MODERATE', "Polly", "Salli", audio_path)
+themes=["worship", "discipline", "broken", "bimbo", "empty"] #1644 lines in total
+dominants=["Master", "Mistress", "Goddess", "Daddy", "Bambi"]
+perspectives = ["1PS", "1PP", "2PS", "3PS"]
+for theme in themes:
+    with open(os.path.join("preconverted",f'{theme}.txt'), 'r') as file:
+        for line in file:
+            for dominant in dominants:
+                for perspective in perspectives:
+                    real_text, contains_subject, contains_dominant= template_to_text(line, perspective, dominant, direct_conversation=False)
+                    audio_path = text_to_file(real_text)
+                    insert_into_db(line, 
+                                real_text, 
+                                perspective if contains_subject else None, 
+                                dominant if contains_dominant else None, 
+                                theme, 
+                                'MODERATE', # todo, would probably need to be part of the template
+                                "Polly",    # todo, enable 11labs support
+                                "Salli", audio_path)
 
 session.close()
