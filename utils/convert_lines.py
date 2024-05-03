@@ -14,6 +14,7 @@ def process_file(input_file_path, output_file_path, dominant_name):
     # Compile regex patterns with case insensitivity, assuming 1st person singular
     patterns = {
         re.compile(rf'\b{dominant_name}\b', re.IGNORECASE): '{dominant}',
+        re.compile(r'\bi(\'|\’)m\b', re.IGNORECASE):   '{subject} am', # no conjuctions
         re.compile(r'\bi\b', re.IGNORECASE):   '{subject}',
         re.compile(r'\bmy\b', re.IGNORECASE):  '{subject_possessive}',
         re.compile(r'\bme\b', re.IGNORECASE):  '{subject_objective}',

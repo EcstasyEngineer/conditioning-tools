@@ -6,7 +6,6 @@ from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 import boto3
 import os
-import re
 
 from tts.tts_engine import text_to_file
 from utils.tools import template_to_text
@@ -26,10 +25,10 @@ polly_client = boto3.client(
 )
 
 # Example usage
-theme="gratitude"
+theme=["gratitude", "discipline", "broken", "bimbo", "empty"]
 dominant="Master"
 subject = "1PS"
-with open(f'{theme}.txt', 'r') as file:
+with open(os.path.join("preconverted",f'{theme}.txt'), 'r') as file:
     for line in file:
         real_text, contains_subject, contains_dominant= template_to_text(line)
         audio_path = text_to_file(real_text)

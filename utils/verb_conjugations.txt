@@ -116,3 +116,5 @@ will,will|will
 withhold,withhold|withholds
 worship,worship|worships
 yearn,yearn|yearns
+don't,don't|doesn't
+aren't,aren't|isn't
