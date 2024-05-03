@@ -10,7 +10,7 @@ Discord-Conditioner is an advanced Discord bot designed to facilitate automated 
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/yourusername/discord-conditioner.git
+git clone https://github.com/EcstasyEngineer/discord-conditioner.git
 
 2. Install dependencies:
 pip install -r requirements.txt
