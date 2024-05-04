@@ -1,24 +1,24 @@
 import re
 
-def template_to_text(line, perspective, dominant, direct_conversation=False):
+def template_to_text(line, perspective, subject="Bambi", dominant="Master", direct_conversation=False):
     # Dictionary mappings for different grammatical persons
     subject_switch = {
         "1PS": "I",
         "1PP": "we",
         "2PS": "you",
-        "3PS": "Bambi"
+        "3PS": subject
     }
     subject_objective = {
         "1PS": "me",
         "1PP": "us",
         "2PS": "you",
-        "3PS": "Bambi"
+        "3PS": subject
     }
     subject_possessive = {
         "1PS": "my",
         "1PP": "our",
-        "2PS": "your",
-        "3PS": "Bambi's"
+        "2PS": "your", # the or those for dissociative language perhaps?
+        "3PS": subject
     }
     dominant_objective = {
         "1PS": "you" if direct_conversation else "them",

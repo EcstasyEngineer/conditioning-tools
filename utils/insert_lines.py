@@ -33,7 +33,7 @@ for theme in themes:
         for line in file:
             for dominant in dominants:
                 for perspective in perspectives:
-                    real_text, contains_subject, contains_dominant= template_to_text(line, perspective, dominant, direct_conversation=False)
+                    real_text, contains_subject, contains_dominant= template_to_text(line, perspective, subject="Bambi", dominant=dominant, direct_conversation=False)
                     audio_path = text_to_file(real_text)
                     insert_into_db(line, 
                                 real_text, 
