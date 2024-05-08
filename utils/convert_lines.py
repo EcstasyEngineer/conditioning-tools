@@ -22,10 +22,16 @@ def load_verb_conjugations(filepath):
     return verb_templates_1ps, verb_templates_1pp, verb_templates_2ps, verb_templates_3ps
 
 def process_file_to_template(input_file_path, output_file_path, dominant_name, subject_name):
-    # Compile regex patterns with case insensitivity, assume 1st person is subject and 2nd/3rd person is dominant
+    # mapping rules:
+    # named subject  - 3ps -> 3ps (subject)
+    # named dominant - 3ps -> 3ps (dominant)
+    # 1ps -> 1ps (subject)
+    # 1pp -> 1ps (subject)
+    # 2ps -> 2ps (dominant)
+    # 3ps -> 2ps (dominant)
     patterns = {
-        re.compile(rf'\b{subject_name}\b', re.IGNORECASE): '{subject}',  # subject name (1st person)
-        re.compile(rf'\b{dominant_name}\b', re.IGNORECASE): '{dominant}',
+        re.compile(rf'\b{subject_name}\b', re.IGNORECASE): '{subject_name}',  # subject name (3rd person)
+        re.compile(rf'\b{dominant_name}\b', re.IGNORECASE): '{dominant_name}', # dominant name (3nd person)
         re.compile(r'\bi(\'|\’)m\b', re.IGNORECASE): '{subject_subjective} am', # no conjunctions
         re.compile(r'\bwe(\'|\’)re\b', re.IGNORECASE): '{subject_subjective} am', # no conjunctions (also convert to 1ps)
         re.compile(r'\bi\b', re.IGNORECASE): '{subject_subjective}',  # "I" as subjective
@@ -55,20 +61,49 @@ def process_file_to_template(input_file_path, output_file_path, dominant_name, s
         
         with open(output_file_path, 'w', encoding='utf-8') as file:
             for line in lines:
+            # search line for \byou\b or \bher\b
+                has_ambiguous = False
+                matches = re.findall(r'\b(you|her)\b', line, re.IGNORECASE)
+                for match in matches:
+                    if match.lower() == 'you':
+                        print("Warning: 'you' is ambiguous. Please verify {dominant_subjective}")
+                        print("original: ", line)
+                        has_ambiguous = True
+                    if match.lower() == 'her':
+                        print("Warning: 'her' is ambiguous. Please verify {dominant_possessive}")
+                        print("original: ", line)
+                        has_ambiguous = True
+                
                 # Replace all patterns in the line {dominant}, {subject}, {subject_possessive}, etc.
                 for pattern, replacement in patterns.items():
                     line = pattern.sub(replacement, line)
 
-                # Load verb conjugation templates
-                matches = re.findall(r'\{subject(_subjective)?\}\s+(\w+)', line, re.IGNORECASE)
+                matches = re.findall(r'\{subject_name\}\s+(\w+)\b', line, re.IGNORECASE)
+                for match in matches:
+                    if match.lower() in verbs_3ps:
+                        pattern = r'\b' + re.escape(match) + r'\b'
+                        replacement = "[" + verbs_3ps[match.lower()] + "]"
+                        line = re.sub(pattern, replacement, line, flags=re.IGNORECASE)
+                        
+                matches = re.findall(r'\{dominant_name\}\s+(\w+)\b', line, re.IGNORECASE)
+                for match in matches:
+                    if match.lower() in verbs_3ps:
+                        pattern = r'\b' + re.escape(match) + r'\b'
+                        replacement = "[" + verbs_2ps[match.lower()] + "]"
+                        line = re.sub(pattern, replacement, line, flags=re.IGNORECASE)
+                        
+                matches = re.findall(r'\{subject(_subjective)?\}\s+(\w+)\b', line, re.IGNORECASE)
                 for match in matches:
                     if match.lower() in verbs_1ps:
-                        # Get the appropriate conjugation pattern [a|b]
                         pattern = r'\b' + re.escape(match) + r'\b'
                         replacement = "[" + verbs_1ps[match.lower()] + "]"
                         line = re.sub(pattern, replacement, line, flags=re.IGNORECASE)
+                    if match.lower() in verbs_1pp:
+                        pattern = r'\b' + re.escape(match) + r'\b'
+                        replacement = "[" + verbs_1pp[match.lower()] + "]"
+                        line = re.sub(pattern, replacement, line, flags=re.IGNORECASE)
                         
-                matches = re.findall(r'\{dominant(_subjective)\}\s+(\w+)', line, re.IGNORECASE)
+                matches = re.findall(r'\{dominant(_subjective)\}\s+(\w+)\b', line, re.IGNORECASE)
                 for match in matches:
                     if match.lower() in verbs_2ps:
                         pattern = r'\b' + re.escape(match) + r'\b'
@@ -78,7 +113,10 @@ def process_file_to_template(input_file_path, output_file_path, dominant_name, s
                         pattern = r'\b' + re.escape(match) + r'\b'
                         replacement = "[" + verbs_3ps[match.lower()] + "]"
                         line = re.sub(pattern, replacement, line, flags=re.IGNORECASE)
-
+                        
+                if has_ambiguous:
+                    print("converted: ", line)
+                        
                 file.write(line)
         
         print(f"File processed successfully. Output saved to {output_file_path}")
