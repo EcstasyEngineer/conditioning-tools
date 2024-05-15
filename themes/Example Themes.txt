@@ -26,9 +26,11 @@ Cognitive/Behavior: Themes that alter thought processes and behavioral patterns.
 	Sluttiness: Encourages the embrace of sexual freedom and expression without shame.
 	Obsession: Induces intense, often irrational fixation on specific ideas or persons.
 	Neediness: Develops a strong emotional or physical dependence on others.
-	Fitness: Promotes health and physical activity behaviors.
+	Fitness: Promotes health and physical activity behaviors such as exercise and diet.
 	Self-Discipline: Enhances personal control and consistent self-regulation.
 	Catharsis: Facilitates the release and resolution of repressed emotions.
+	Gratitude: Promotes feelings of thankfulness and appreciation..
+	Worship: Creates profound reverence, adoration, and irolization of a dominant.
 	Addiction: Creates a compulsive need for repeated experiences.
 	Risk Seeking: Encourages behaviors involving significant risks.
 	Emotional Modulation: Adjusts the intensity and expression of emotions.
