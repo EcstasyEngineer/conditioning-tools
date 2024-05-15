@@ -9,6 +9,9 @@ Hypnotic Conditioning: Focuses on the essential elements that facilitate the ind
 		Amnesia: Induces forgetfulness of the trance experience or selective memories.
 		Resistance: Focuses on overcoming internal barriers to let go more easily.
 	Acceptance: Reduces critical thinking, enhancing receptivity to hypnotic suggestions.
+	Confusion: Confusing words and concepts to disrupt logical thinking and deepen trance.
+	Overload: Overwhelms the mind with information to induce a trance state.
+	Contradiction: Presents conflicting ideas to create cognitive dissonance.
 	Trust: Builds rapport and safety, foundational for effective hypnosis.
 	Affirmation: Uses positive statements to capture and direct attention during trance.
 Cognitive/Behavior: Themes that alter thought processes and behavioral patterns.
@@ -23,6 +26,8 @@ Cognitive/Behavior: Themes that alter thought processes and behavioral patterns.
 	Exhibition: Promotes a desire to be seen and noticed by others.
 	Brattiness: Instills playful or cheeky resistance and provocative behaviors.
 	Vanity: Encourages excessive pride in one's appearance and achievements.
+	Chastity: Emphasizes sexual abstinence or denial as a form of control.
+	Clicker: The need to be clicker trained like a pet.
 	Sluttiness: Encourages the embrace of sexual freedom and expression without shame.
 	Obsession: Induces intense, often irrational fixation on specific ideas or persons.
 	Neediness: Develops a strong emotional or physical dependence on others.
@@ -39,6 +44,7 @@ Cognitive/Behavior: Themes that alter thought processes and behavioral patterns.
 		Fearplay: Uses fear to establish compliance.
 		Gaslighting: Sows confusion and self-doubt through deceptive communication.
 		Mindbreak: Radically dismantles a person's mental and emotional stability.
+		Identity: erases the sense of self and replaces it with a new identity.
 		Dependence: Creates a reliance on the hypnotist or the hypnotic context.
 		Masochism: Leverages discomfort or pain as a method of control.
 
@@ -82,5 +88,5 @@ Events
 	Cumming
 	Hypnotic Anchor
 	Hypnotic Trigger
-
-
+	Countdown
+	Countup
