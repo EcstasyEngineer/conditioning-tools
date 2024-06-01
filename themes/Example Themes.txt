@@ -45,6 +45,7 @@ Cognitive/Behavior: Themes that alter thought processes and behavioral patterns.
 		Gaslighting: Sows confusion and self-doubt through deceptive communication.
 		Mindbreak: Radically dismantles a person's mental and emotional stability.
 		Identity: erases the sense of self and replaces it with a new identity.
+		Consent Erosion: Gradually diminishes the ability to refuse or resist.
 		Dependence: Creates a reliance on the hypnotist or the hypnotic context.
 		Masochism: Leverages discomfort or pain as a method of control.
 
