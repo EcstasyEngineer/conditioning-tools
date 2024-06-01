@@ -1,12 +1,15 @@
 import re
 
-def template_to_text(line, perspective, subject="Bambi", dominant="Master", direct_conversation=False):
+def template_to_text(line, 
+                     subject="1PS", 
+                     dominant="",
+                     subject_name="Bambi", subject_gender=None, dominant="Master", dominant_gender="M", direct_conversation=False):
     # Dictionary mappings for different grammatical persons
     subject_switch = {
         "1PS": "I",
         "1PP": "we",
         "2PS": "you",
-        "3PS": subject
+        "3PS": subject_name
     }
     subject_objective = {
         "1PS": "me",
