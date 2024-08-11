@@ -14,13 +14,9 @@ class Quote(commands.Cog):
     """
     def __init__(self, bot):
         self.bot = bot
-        
         self.qod = ''#Stores the quote of the day
         self.qod_auth = ''#Stores the quote author
-    
-    async def cog_load(self):
-        # Starts the task loop in cog_load instead of __init__
-        await self.refresh_quote.start()
+        self.refresh_quote.start()
 
     @tasks.loop(hours=1.0)
     async def refresh_quote(self):
@@ -45,7 +41,8 @@ class Quote(commands.Cog):
                     qod = (await resp.json())['contents']['quotes'][0]['quote']
                     author = (await resp.json())['contents']['quotes'][0]['author']
                     return qod, author
-
+                else:
+                    return 'Error getting the quote.', 'Unknown'
 
     @commands.command(name='quote', aliases=['qod',], description='Sends the quote of the day.')
     async def quote(self, ctx):
