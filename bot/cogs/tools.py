@@ -64,7 +64,7 @@ class Tools(commands.Cog):
         await ctx.send(embed = embed)
 
 		
-def setup(bot):
+async def setup(bot):
     """Every cog needs a setup function like this."""
-    bot.add_cog(Tools(bot))
+    await bot.add_cog(Tools(bot))
     

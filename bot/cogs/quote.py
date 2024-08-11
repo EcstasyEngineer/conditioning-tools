@@ -17,7 +17,10 @@ class Quote(commands.Cog):
         
         self.qod = ''#Stores the quote of the day
         self.qod_auth = ''#Stores the quote author
-        self.refresh_quote.start()#Starts the task loop
+    
+    async def cog_load(self):
+        # Starts the task loop in cog_load instead of __init__
+        await self.refresh_quote.start()
 
     @tasks.loop(hours=1.0)
     async def refresh_quote(self):
@@ -50,6 +53,6 @@ class Quote(commands.Cog):
         await ctx.send(f'>>> {self.qod}    -_{self.qod_auth}_')#`>>>` is discord markup for quotes.
 
 
-def setup(bot):
+async def setup(bot):
     """Every cog needs a setup function like this."""
-    bot.add_cog(Quote(bot))
+    await bot.add_cog(Quote(bot))

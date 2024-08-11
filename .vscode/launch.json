@@ -12,6 +12,14 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: Discord Bot",
+            "type": "debugpy",
+            "cwd": "${workspaceFolder}/bot",
+            "request": "launch",
+            "program": "bot.py",
+            "console": "integratedTerminal"
         }
     ]
 }

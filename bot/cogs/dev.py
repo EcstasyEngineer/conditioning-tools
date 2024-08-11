@@ -130,6 +130,6 @@ class Dev(commands.Cog):
 			await message.edit(content=f'{self.check_cog(cog)} has been reloaded.', delete_after=20)
 
 
-def setup(bot):
+async def setup(bot):
 	"""Every cog needs a setup function like this."""
-	bot.add_cog(Dev(bot))
+	await bot.add_cog(Dev(bot))

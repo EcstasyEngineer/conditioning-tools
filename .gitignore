@@ -1,5 +1,4 @@
 .venv
-.vscode
 bot/token.txt
 
 __pycache__

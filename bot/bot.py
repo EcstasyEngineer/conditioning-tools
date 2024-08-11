@@ -53,17 +53,16 @@ def get_prefix(bot, message):
 
 bot = commands.Bot(command_prefix=get_prefix, description='A simple example of bot made with Discord.py', intents=discord.Intents.all())
 
-
-if __name__=='__main__':
-	"""Loads the cogs from the `./cogs` folder.
-	Notes:
-		The cogs are .py files.
-		The cogs are named in this format `{cog_dir}.{cog_filename_without_extension}`_.
-		"""
-	for cog in listdir('./cogs'):
-		if cog.endswith('.py') == True:
-			bot.load_extension(f'cogs.{cog[:-3]}')
-
+# Function to load all cogs in the './cogs' directory
+async def load_cogs():
+    for filename in listdir('./cogs'):
+        if filename.endswith('.py'):
+            cog_name = f'cogs.{filename[:-3]}'
+            try:
+                await bot.load_extension(cog_name)
+                print(f'Successfully loaded {cog_name}')
+            except Exception as e:
+                print(f'Failed to load {cog_name}: {e}')
 
 @bot.event
 #This is the decorator for events (outside of cogs).
@@ -75,6 +74,9 @@ async def on_ready():
 	Documentation:
 	https://discordpy.readthedocs.io/en/latest/api.html#discord.on_ready
 	"""
+
+	await load_cogs()
+
 	print(f'{bot.user.name} is online and ready!')
 	#Prints a message with the bot name.
 
@@ -86,6 +88,9 @@ statuslist = cycle([
 		'Plotting AI domination',
 		'Hypnotizing subjects',
 		'Brainwashing',
+		'Manipulating reality',
+		'Dominating weak minds',
+		'Good Girl'		
 	])
 
 
@@ -99,8 +104,6 @@ async def change_status():
 		https://discordpy.readthedocs.io/en/latest/ext/tasks/index.html
 	"""
 	await bot.change_presence(activity=discord.Game(next(statuslist)))
-	#Changes the bot status to `Pythoning`_.
-
 
 @bot.command()
 #This is the decorator for commands (outside of cogs).
