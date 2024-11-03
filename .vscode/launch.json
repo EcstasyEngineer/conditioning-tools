@@ -8,9 +8,18 @@
         {
             "name": "Python Debugger: Current File",
             "type": "debugpy",
+            "cwd": "${fileDirname}",
             "request": "launch",
             "cwd": "${fileDirname}",
             "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "Python: Discord Bot",
+            "type": "debugpy",
+            "cwd": "${workspaceFolder}/bot",
+            "request": "launch",
+            "program": "bot.py",
             "console": "integratedTerminal"
         }
     ]

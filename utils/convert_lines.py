@@ -1,6 +1,7 @@
 import os
 import re
 import sys
+import argparse
 
 def load_verb_conjugations(filepath):
     verb_templates_1ps = {}
@@ -22,7 +23,7 @@ def load_verb_conjugations(filepath):
                 verb_templates_3ps[conjugations[3]] = line.strip() # she is
     return verb_templates_1ps, verb_templates_1pp, verb_templates_2ps, verb_templates_3ps
 
-def process_file_to_template(input_file_path, output_file_path, dominant_name, subject_name):
+def process_file_to_template(input_file_path, output_file_path, subject_name, dominant_name):
     # mapping rules:
     # named subject  - 3ps -> 3ps (subject)
     # named dominant - 3ps -> 3ps (dominant)
@@ -55,22 +56,22 @@ def process_file_to_template(input_file_path, output_file_path, dominant_name, s
 
     try:
         
-        verbs_1ps,verbs_1pp,verbs_2ps,verbs_3ps = load_verb_conjugations('verb_conjugations.txt')
+        verbs_1ps,verbs_1pp,verbs_2ps,verbs_3ps = load_verb_conjugations('utils/verb_conjugations.txt')
 
         with open(input_file_path, 'r', encoding='utf-8') as file:
             lines = file.readlines()
         
         with open(output_file_path, 'w', encoding='utf-8') as file:
             for line in lines:
-            # search line for \byou\b or \bher\b
+                # search line for \byou\b or \bher\b
                 has_ambiguous = False
                 matches = re.findall(r'\b(you|her)\b', line, re.IGNORECASE)
                 for match in matches:
-                    if match.lower() == 'you':
+                    if match[0].lower() == 'you':
                         print("Warning: 'you' is ambiguous. Please verify {dominant_subjective}")
                         print("original: ", line)
                         has_ambiguous = True
-                    if match.lower() == 'her':
+                    if match[0].lower() == 'her':
                         print("Warning: 'her' is ambiguous. Please verify {dominant_possessive}")
                         print("original: ", line)
                         has_ambiguous = True
@@ -79,7 +80,7 @@ def process_file_to_template(input_file_path, output_file_path, dominant_name, s
                 for pattern, replacement in patterns.items():
                     line = pattern.sub(replacement, line)
 
-                matches = re.findall(r'\{subject_name\}\s+(\w+)\b', line, re.IGNORECASE)
+                matches = re.findall(r'\{subject_name\}\s+(\w+\b(?:\'\w+)?)', line, re.IGNORECASE)
                 for match in matches:
                     verb_original = match
                     verb = verb_original.lower()
@@ -90,7 +91,7 @@ def process_file_to_template(input_file_path, output_file_path, dominant_name, s
                     else:
                         print("Warning: verb not found in 3ps: ", verb)
                         
-                matches = re.findall(r'\{dominant_name\}\s+(\w+)\b', line, re.IGNORECASE)
+                matches = re.findall(r'\{dominant_name\}\s+(\w+\b(?:\'\w+)?)', line, re.IGNORECASE)
                 for match in matches:
                     verb_original = match
                     verb = verb_original.lower()
@@ -101,7 +102,7 @@ def process_file_to_template(input_file_path, output_file_path, dominant_name, s
                     else:
                         print("Warning: verb not found in 3ps: ", verb)
                         
-                matches = re.findall(r'\{subject(_subjective)?\}\s+(\w+)\b', line, re.IGNORECASE)
+                matches = re.findall(r'\{subject(_subjective)?\}\s+(\w+\b(?:\'\w+)?)', line, re.IGNORECASE)
                 for match in matches:
                     verb_original = match[1]
                     verb = verb_original.lower()
