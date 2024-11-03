@@ -56,7 +56,7 @@ def process_file_to_template(input_file_path, output_file_path, subject_name, do
 
     try:
         
-        verbs_1ps,verbs_1pp,verbs_2ps,verbs_3ps = load_verb_conjugations('utils/verb_conjugations.txt')
+        verbs_1ps,verbs_1pp,verbs_2ps,verbs_3ps = load_verb_conjugations('verb_conjugations.txt')
 
         with open(input_file_path, 'r', encoding='utf-8') as file:
             lines = file.readlines()
