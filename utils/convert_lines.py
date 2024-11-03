@@ -1,3 +1,4 @@
+import os
 import re
 import sys
 
@@ -80,38 +81,52 @@ def process_file_to_template(input_file_path, output_file_path, dominant_name, s
 
                 matches = re.findall(r'\{subject_name\}\s+(\w+)\b', line, re.IGNORECASE)
                 for match in matches:
-                    if match.lower() in verbs_3ps:
-                        pattern = r'\b' + re.escape(match) + r'\b'
-                        replacement = "[" + verbs_3ps[match.lower()] + "]"
+                    verb_original = match
+                    verb = verb_original.lower()
+                    if verb in verbs_3ps:
+                        pattern = r'(?<!\[)\b' + re.escape(verb_original) + r'\b(?!\])'
+                        replacement = "[" + verbs_3ps[verb] + "]"
                         line = re.sub(pattern, replacement, line, flags=re.IGNORECASE)
+                    else:
+                        print("Warning: verb not found in 3ps: ", verb)
                         
                 matches = re.findall(r'\{dominant_name\}\s+(\w+)\b', line, re.IGNORECASE)
                 for match in matches:
-                    if match.lower() in verbs_3ps:
-                        pattern = r'\b' + re.escape(match) + r'\b'
-                        replacement = "[" + verbs_2ps[match.lower()] + "]"
+                    verb_original = match
+                    verb = verb_original.lower()
+                    if verb in verbs_3ps:
+                        pattern = r'(?<!\[)\b' + re.escape(verb_original) + r'\b(?!\])'
+                        replacement = "[" + verbs_3ps[verb] + "]"
                         line = re.sub(pattern, replacement, line, flags=re.IGNORECASE)
+                    else:
+                        print("Warning: verb not found in 3ps: ", verb)
                         
                 matches = re.findall(r'\{subject(_subjective)?\}\s+(\w+)\b', line, re.IGNORECASE)
                 for match in matches:
-                    if match.lower() in verbs_1ps:
-                        pattern = r'\b' + re.escape(match) + r'\b'
-                        replacement = "[" + verbs_1ps[match.lower()] + "]"
+                    verb_original = match[1]
+                    verb = verb_original.lower()
+                    if verb in verbs_1ps:
+                        pattern = r'(?<!\[)\b' + re.escape(verb_original) + r'\b(?!\])'
+                        replacement = "[" + verbs_1ps[verb] + "]"
                         line = re.sub(pattern, replacement, line, flags=re.IGNORECASE)
-                    if match.lower() in verbs_1pp:
-                        pattern = r'\b' + re.escape(match) + r'\b'
-                        replacement = "[" + verbs_1pp[match.lower()] + "]"
+                    if verb in verbs_1pp:
+                        pattern = r'(?<!\[)\b' + re.escape(verb_original) + r'\b(?!\])'
+                        replacement = "[" + verbs_1pp[verb] + "]"
                         line = re.sub(pattern, replacement, line, flags=re.IGNORECASE)
+                    if verb not in verbs_1ps and verb not in verbs_1pp:
+                        print("Warning: verb not found in 1ps or 1pp: ", verb)
                         
-                matches = re.findall(r'\{dominant(_subjective)\}\s+(\w+)\b', line, re.IGNORECASE)
+                matches = re.findall(r'\{dominant(_subjective)?\}\s+(\w+)\b', line, re.IGNORECASE)
                 for match in matches:
-                    if match.lower() in verbs_2ps:
-                        pattern = r'\b' + re.escape(match) + r'\b'
-                        replacement = "[" + verbs_2ps[match.lower()] + "]"
+                    verb_original = match[1]
+                    verb = verb_original.lower()
+                    if verb in verbs_2ps:
+                        pattern = r'(?<!\[)\b' + re.escape(verb_original) + r'\b(?!\])'
+                        replacement = "[" + verbs_2ps[verb] + "]"
                         line = re.sub(pattern, replacement, line, flags=re.IGNORECASE)
-                    if match.lower() in verbs_3ps:
-                        pattern = r'\b' + re.escape(match) + r'\b'
-                        replacement = "[" + verbs_3ps[match.lower()] + "]"
+                    if verb in verbs_3ps:
+                        pattern = r'(?<!\[)\b' + re.escape(verb_original) + r'\b(?!\])'
+                        replacement = "[" + verbs_3ps[verb] + "]"
                         line = re.sub(pattern, replacement, line, flags=re.IGNORECASE)
                         
                 if has_ambiguous:
@@ -121,14 +136,24 @@ def process_file_to_template(input_file_path, output_file_path, dominant_name, s
         
         print(f"File processed successfully. Output saved to {output_file_path}")
     
-    except FileNotFoundError:
-        print("Error: The file specified does not exist.")
+    except FileNotFoundError as e:
+        print(f"Error: The file specified does not exist: {e}")
+    except KeyError as e:
+        print(f"Error: {e} not found in the verb conjugations for line: {line}")
     except Exception as e:
-        print(f"An error occurred: {e}")
+        print(f"An error occurred: {e} for line: {line}")
 
 if __name__ == "__main__":
     if len(sys.argv) < 4:
         print("Usage: python convert_lines.py <input_file> <output_file> <dominant_name> <subject_name>")
+        input_files = os.listdir("preconverted")
+        output_directory = "converted"
+        for file in input_files:
+            input_file_path = os.path.join("preconverted", file)
+            output_file_path = os.path.join(output_directory, file)
+            dominant_name = "Master"
+            subject_name = "Slave"
+            process_file_to_template(input_file_path, output_file_path, dominant_name, subject_name)
     else:
         input_file_path = sys.argv[1]
         output_file_path = sys.argv[2]
@@ -138,4 +163,4 @@ if __name__ == "__main__":
 
 
 # Example usage
-# python convert_lines.py input.txt output.txt "Master" "Bambi"
+# python convert_lines.py input.txt output.txt "Master" "Slave"

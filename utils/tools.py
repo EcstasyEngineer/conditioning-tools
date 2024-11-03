@@ -1,6 +1,6 @@
 import re
 
-def template_to_text(line, perspective, subject="Bambi", dominant="Master", direct_conversation=False):
+def template_to_text(line, perspective, subject="Slave", dominant="Master", direct_conversation=False):
     # Dictionary mappings for different grammatical persons
     subject_switch = {
         "1PS": "I",

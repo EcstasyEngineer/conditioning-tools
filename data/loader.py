@@ -1,4 +1,5 @@
 # loader.py
+import os
 from .database import get_session
 from .models import Line
 
