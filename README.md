@@ -45,7 +45,7 @@ The Hypnosis Content Generation Application serves as an engine that generates d
    ```
 
 3. **Set up the database**:
-   - SQLite is the default. Configure PostgreSQL if preferred by updating `config.ini`.
+   - SQLite is the default. Configure PostgreSQL if preferred by updating `.env`.
 
 4. **Run the Application**:
    ```bash
