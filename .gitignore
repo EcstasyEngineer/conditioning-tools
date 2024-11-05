@@ -4,3 +4,4 @@ bot/token.txt
 __pycache__
 *.pyc
 .env
+*.db

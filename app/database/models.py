@@ -78,8 +78,8 @@ class Template(Base):
     line_type = Column(Enum(LineTypeEnum), nullable=True)
     difficulty = Column(Enum(DifficultyEnum), nullable=True)
     theme_id = Column(Integer, ForeignKey('themes.id'))
-    has_subject = Column(bool)
-    has_dominant = Column(bool)
+    #has_subject = Column(bool)
+    #has_dominant = Column(bool)
     date_created = Column(DateTime, default=datetime.utcnow)
     date_modified = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
 
@@ -138,3 +138,7 @@ class Telemetry(Base):
     response_time = Column(Float)
     request_data = Column(Text)
     response_data = Column(Text)
+
+def create_tables(engine_url):
+    engine = create_engine(engine_url)
+    Base.metadata.create_all(engine)

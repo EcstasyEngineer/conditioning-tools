@@ -1,7 +1,6 @@
 # Assuming the structure of your project and the presence of these modules
-from config import settings
-from data.loader import insert_into_db
-from data.models import Line, Base  # Assuming your model definitions are here
+from app.database.loader import insert_into_db
+from app.database.models import Line, Base  # Assuming your model definitions are here
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
 import boto3
@@ -11,7 +10,7 @@ from tts.tts_engine import text_to_file
 from utils.tools import template_to_text
 
 # Setup database connection
-engine = create_engine(settings['storage']['url'])
+engine = create_engine(os.getenv('DATABASE_URL'))
 Base.metadata.create_all(engine)
 Session = sessionmaker(bind=engine)
 session = Session()
@@ -19,9 +18,9 @@ session = Session()
 # AWS Polly client setup
 polly_client = boto3.client(
     'polly',
-    aws_access_key_id=settings['aws']['access_key_id'],
-    aws_secret_access_key=settings['aws']['secret_access_key'],
-    region_name=settings['aws']['region_name']
+    aws_access_key_id=os.getenv('AWS_ACCESS_KEY_ID'),
+    aws_secret_access_key=os.getenv('AWS_SECRET_ACCESS_KEY'),
+    region_name=os.getenv('AWS_REGION_NAME')
 )
 
 # Example usage

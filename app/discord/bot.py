@@ -23,6 +23,8 @@ from itertools import cycle
 from discord.ext import commands, tasks
 import discord
 from os import listdir
+from dotenv import load_dotenv
+import os
 
 
 def get_prefix(bot, message):
@@ -115,7 +117,7 @@ async def greet(ctx):
 
 
 #Grab token from the token.txt file
-with open('token.txt', 'r') as file:
-	TOKEN = file.read().strip()
+load_dotenv()
+TOKEN = os.getenv('DISCORD_TOKEN')
 
-bot.run(TOKEN)#Runs the bot with its token. Don't put code below this command.
+bot.run(TOKEN) #Runs the bot with its token. Don't put code below this command.
