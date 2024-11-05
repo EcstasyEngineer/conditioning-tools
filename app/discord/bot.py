@@ -12,11 +12,9 @@ Documentation:
 +	Tasks documentation:	https://discordpy.readthedocs.io/en/latest/ext/tasks/index.html
 The example files are organized in this directory structure:
 ...
-	🗀bot
-	
+	/discord
 		-bot.py
-		🗀cogs
-		
+		/cogs
 			-dev.py
 			-tools.py
 			-quote.py
