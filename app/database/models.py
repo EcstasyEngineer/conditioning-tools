@@ -78,7 +78,8 @@ class Template(Base):
     line_type = Column(Enum(LineTypeEnum), nullable=True)
     difficulty = Column(Enum(DifficultyEnum), nullable=True)
     theme_id = Column(Integer, ForeignKey('themes.id'))
-    trigger = Column(String)
+    has_subject = Column(bool)
+    has_dominant = Column(bool)
     date_created = Column(DateTime, default=datetime.utcnow)
     date_modified = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)
 
@@ -93,10 +94,10 @@ class Line(Base):
     id = Column(Integer, primary_key=True)
     template_id = Column(Integer, ForeignKey('templates.id'))
     real_text = Column(Text, nullable=False, unique=True)
-    subject = Column(String)
+    subject = Column(String, nullable=True)
     sub_gender = Column(Enum(GenderEnum), nullable=True)
     sub_pov = Column(Enum(POVEnum), nullable=True)
-    dominant = Column(String)
+    dominant = Column(String, nullable=True)
     dom_gender = Column(Enum(GenderEnum), nullable=True)
     dom_pov = Column(Enum(POVEnum), nullable=True)
     service = Column(String)
@@ -116,6 +117,7 @@ class User(Base):
     preferred_dominant = Column(String)
     subject_name = Column(String)
     subject_gender = Column(Enum(GenderEnum), nullable=True)
+    dominant_name = Column(String)
     dominant_gender = Column(Enum(GenderEnum), nullable=True)
 
     # Relationships

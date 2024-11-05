@@ -52,6 +52,7 @@ def process_file_to_template(input_file_path, output_file_path, subject_name, do
         re.compile(r'\bhis\b', re.IGNORECASE): '{dominant_possessive}',
         re.compile(r'\bher|hers\b', re.IGNORECASE): '{dominant_possessive}', # warning, "her" can be objective as well
         re.compile(r'\btheir|theirs\b', re.IGNORECASE): '{dominant_possessive}',
+        re.compile(r'\b(girl|boy)\b', re.IGNORECASE): '{subject_gender_noun}', 
     }
 
     try:
@@ -129,6 +130,10 @@ def process_file_to_template(input_file_path, output_file_path, subject_name, do
                         pattern = r'(?<!\[)\b' + re.escape(verb_original) + r'\b(?!\])'
                         replacement = "[" + verbs_3ps[verb] + "]"
                         line = re.sub(pattern, replacement, line, flags=re.IGNORECASE)
+
+                matches = re.findall(r'\b(boy|girl)\b', line, re.IGNORECASE)
+                for match in matches:
+                    print(f"Warning: '{match}' found. This may need {{subject_gender_noun}} for generalization.")
                         
                 if has_ambiguous:
                     print("converted: ", line)
