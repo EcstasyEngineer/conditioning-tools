@@ -10,7 +10,12 @@ The Hypnosis Content Generation Application serves as an engine that generates d
 - **Themes**: High-level hypnosis motifs such as submission, mind emptying, or roleplay identities, which influence the content and focus of each session.
 - **Phases**: Structured segments within each session that progress through hypnotic stages—starting with an induction, followed by deepeners, and then flowing into suggestion-focused phases based on the chosen themes. Each phase includes specific objectives, such as deepening trance, enhancing focus, or instilling particular suggestions, creating a cohesive journey for the user.
 - **Sessions**: Configurations that define the hypnosis experience, including selected themes, user preferences, difficulty levels, and duration. Sessions are composed of phases, ensuring a guided and adaptive flow tailored to individual goals.
-- **Multi-Platform Integration**: The application supports various interfaces, including web, Discord, VRChat, and local application rendering, enabling consistent and synchronized hypnosis experiences across platforms.
+- **State Tracking**: The application constantly re-estimates the listener's arousal, focus, and depth. 
+- **Adaptive Content**: Based on the state tracking, the application dynamically adjusts the content to better suit the listener's current state, ensuring a more effective and personalized hypnosis experience.
+- **State Tracking**: The application constantly re-estimates the listener's arousal, focus, and depth.
+  - **Arousal**: Increases if suggestive themes, or JOI state (green - increase slowly, purple increase fast). Cumulative. Plans for using heart rate data to fine tune this.
+  - **Focus**: Depends on the theme (if theme calls attention), or if JOI state is in purple.
+  - **Depth**: Depends on number of deepeners used recently.
 
 ## Key Features
 

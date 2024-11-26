@@ -1,5 +1,5 @@
 -- modified from: Hedge Hypnotist "Focus on Brainwashing - Hypnosis"
-
+@type deepener
 I'm going to count down once more from the number 10 to the number 1
 with each and every number. You will find yourself focusing more and more,
 becoming more and more relaxed, getting closer to that state where you are in your own mind.
