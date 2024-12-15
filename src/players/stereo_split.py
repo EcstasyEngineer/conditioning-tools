@@ -1,28 +1,29 @@
-from .base import Player
-from pydub import AudioSegment
 from typing import List, Dict
-import os, hashlib
-
-AUDIO_DIR = "./Audio"
-
-def line_hash(line_text: str) -> str:
-    return hashlib.md5(line_text.encode('utf-8')).hexdigest()
+from .base import Player
 
 class StereoSplitPlayer(Player):
     """
-    Alternate lines between left and right channels.
-    line 1: left, line 2: right, line 3: left, etc.
+    StereoSplitPlayer:
+    - Psych Use: Alternating each line (audio or image) left/right creates a ping-pong effect.
+      This can be used for a mild confusion or to break monotony, making the subject follow the shifts and 
+      reducing their ability to maintain a critical mindset.
+
+    Even index: left, Odd index: right.
     """
-    def play_sequence(self, line_sequence: List[Dict]) -> AudioSegment:
-        final_track = AudioSegment.silent(duration=0)
-        for i, line_data in enumerate(line_sequence):
-            text = line_data["line"]
-            h = line_hash(text)
-            audio_path = os.path.join(AUDIO_DIR, f"{h}.mp3")
-            if os.path.isfile(audio_path):
-                seg = AudioSegment.from_mp3(audio_path)
-                # Even index: left (-0.5 pan), odd index: right (+0.5 pan)
+
+    def arrange_sequence(self, item_sequence: List[Dict]) -> List[Dict]:
+        arranged = []
+        for i, item in enumerate(item_sequence):
+            if item["type"] == "audio":
                 pan = -0.5 if i % 2 == 0 else 0.5
-                seg = seg.pan(pan)
-                final_track += seg + AudioSegment.silent(duration=500)
-        return final_track
+                pos = None
+            else:
+                pos = "left" if i % 2 == 0 else "right"
+                pan = None
+            arrangement = {
+                "item": item,
+                "audio_pan": pan,
+                "image_pos": pos
+            }
+            arranged.append(arrangement)
+        return arranged

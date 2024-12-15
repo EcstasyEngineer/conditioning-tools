@@ -1,36 +1,34 @@
-# players/rotational.py
-import os
-import hashlib
-from pydub import AudioSegment
 from typing import List, Dict
 from .base import Player
 
-AUDIO_DIR = "./Audio"
-
-def line_hash(line_text: str) -> str:
-    return hashlib.md5(line_text.encode('utf-8')).hexdigest()
-
 class RotationalPlayer(Player):
     """
-    Similar to TriChamber, but conceptually for a "rotational" feel.
-    Lines rotate L->C->R->L->... continuously.
-    Functionally similar to TriChamber but emphasizes a sense of motion.
+    RotationalPlayer:
+    - Psych Use: Rotating sound or image positions can disorient the subject,
+      making them feel as if the environment is moving around them.
+      Perfect for deep trance or confusion techniques.
+
+    Example logic:
+    - For audio: cycle through L, C, R.
+    - For images: cycle through left, center, right placements.
     """
-    def play_sequence(self, line_sequence: List[Dict]) -> AudioSegment:
-        final_track = AudioSegment.silent(duration=0)
-        pans = [-0.5, 0.0, 0.5]  # L, C, R
 
-        for i, line_data in enumerate(line_sequence):
-            text = line_data["line"]
-            h = line_hash(text)
-            audio_path = os.path.join(AUDIO_DIR, f"{h}.mp3")
-            if not os.path.isfile(audio_path):
-                print(f"Warning: missing audio for line: {text}")
-                continue
+    def arrange_sequence(self, item_sequence: List[Dict]) -> List[Dict]:
+        arranged = []
+        audio_pans = [-0.5, 0.0, 0.5]
+        image_positions = ["left", "center", "right"]
 
-            seg = AudioSegment.from_mp3(audio_path)
-            seg = seg.pan(pans[i % 3])
-            # Add spacing
-            final_track += seg + AudioSegment.silent(duration=500)
-
-        return final_track
+        for i, item in enumerate(item_sequence):
+            if item["type"] == "audio":
+                pan = audio_pans[i % 3]
+                pos = None
+            else:
+                pos = image_positions[i % 3]
+                pan = None
+            arrangement = {
+                "item": item,
+                "audio_pan": pan,
+                "image_pos": pos
+            }
+            arranged.append(arrangement)
+        return arranged

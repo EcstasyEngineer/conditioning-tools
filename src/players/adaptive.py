@@ -1,50 +1,42 @@
-# players/adaptive.py
-import os
-import hashlib
-from pydub import AudioSegment
+import random
 from typing import List, Dict
 from .base import Player
 
-AUDIO_DIR = "./Audio"
-
-def line_hash(line_text: str) -> str:
-    return hashlib.md5(line_text.encode('utf-8')).hexdigest()
-
 class AdaptivePlayer(Player):
     """
-    Changes behavior based on a condition (e.g., intensity).
-    If intense_mode is True, move lines toward center and boost volume.
-    If false, alternate left and right with normal volume.
+    AdaptivePlayer:
+    - Psych Use: If session intensity is high, centralize audio (less disorienting) and maybe show fewer images
+      or more focused images. If low, alternate channels widely or shuffle images to maintain alertness.
+
+    Current logic (example):
+    - If intense_mode: center audio, maybe fewer images or simplified arrangement.
+    - Else: alternate audio channels, random image positions (if images used).
     """
+
     def __init__(self, intense_mode: bool = False):
         self.intense_mode = intense_mode
 
-    def play_sequence(self, line_sequence: List[Dict]) -> AudioSegment:
-        final_track = AudioSegment.silent(duration=0)
-
+    def arrange_sequence(self, item_sequence: List[Dict]) -> List[Dict]:
+        arranged = []
         if self.intense_mode:
-            # All lines slightly boosted and near center
-            for line_data in line_sequence:
-                text = line_data["line"]
-                h = line_hash(text)
-                path = os.path.join(AUDIO_DIR, f"{h}.mp3")
-                if not os.path.isfile(path):
-                    continue
-                seg = AudioSegment.from_mp3(path)
-                seg = seg.pan(0.0)  # center
-                seg = seg + 3       # boost by 3dB
-                final_track += seg + AudioSegment.silent(duration=500)
+            # Center all audio, no fancy panning. For images, just show them in a neutral position.
+            for item in item_sequence:
+                arrangement = {
+                    "item": item,
+                    "audio_pan": 0.0 if item["type"] == "audio" else None,
+                    "image_pos": "center" if item["type"] == "image" else None
+                }
+                arranged.append(arrangement)
         else:
-            # Alternate left/right, normal volume
-            for i, line_data in enumerate(line_sequence):
-                text = line_data["line"]
-                h = line_hash(text)
-                path = os.path.join(AUDIO_DIR, f"{h}.mp3")
-                if not os.path.isfile(path):
-                    continue
-                seg = AudioSegment.from_mp3(path)
-                pan = -0.5 if i % 2 == 0 else 0.5
-                seg = seg.pan(pan)
-                final_track += seg + AudioSegment.silent(duration=500)
+            # Alternate left/right for audio, random positions for images
+            for i, item in enumerate(item_sequence):
+                pan = (-0.5 if i % 2 == 0 else 0.5) if item["type"] == "audio" else None
+                img_pos = random.choice(["left", "right", "center"]) if item["type"] == "image" else None
+                arrangement = {
+                    "item": item,
+                    "audio_pan": pan,
+                    "image_pos": img_pos
+                }
+                arranged.append(arrangement)
 
-        return final_track
+        return arranged

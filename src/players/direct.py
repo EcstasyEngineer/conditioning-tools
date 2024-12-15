@@ -1,23 +1,21 @@
-from .base import Player
-from pydub import AudioSegment
 from typing import List, Dict
-import os
-import hashlib
-
-def line_hash(line_text: str) -> str:
-    return hashlib.md5(line_text.encode('utf-8')).hexdigest()
-
-AUDIO_DIR = "./Audio"
+from .base import Player
 
 class DirectPlayer(Player):
-    def play_sequence(self, line_sequence: List[Dict]) -> AudioSegment:
-        final_track = AudioSegment.silent(duration=0)
-        for line_data in line_sequence:
-            text = line_data["line"]
-            h = line_hash(text)
-            audio_path = os.path.join(AUDIO_DIR, f"{h}.mp3")
-            if os.path.isfile(audio_path):
-                seg = AudioSegment.from_mp3(audio_path)
-                # Direct: no panning or special effects
-                final_track += seg + AudioSegment.silent(duration=500)
-        return final_track
+    """
+    DirectPlayer:
+    - Psych Use: Simple playback with no fancy effects.
+      Good for straightforward affirmation sessions or when complexity is not desired.
+    """
+
+    def arrange_sequence(self, item_sequence: List[Dict]) -> List[Dict]:
+        # No changes, just return items as-is.
+        arranged = []
+        for item in item_sequence:
+            arrangement = {
+                "item": item,
+                "audio_pan": 0.0 if item["type"] == "audio" else None,  # center for audio
+                "image_pos": "center" if item["type"] == "image" else None
+            }
+            arranged.append(arrangement)
+        return arranged

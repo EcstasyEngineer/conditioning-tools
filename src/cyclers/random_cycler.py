@@ -3,11 +3,20 @@ from typing import List, Dict
 from .base import Cycler
 
 class RandomCycler(Cycler):
-    def __init__(self, lines: List[Dict], num_lines: int):
-        super().__init__(lines)
-        self.num_lines = num_lines
+    """
+    RandomCycler:
+    - Psych Use: Randomization can create an unpredictable environment that overloads the conscious mind,
+      making it easier for suggestions or subliminal images to slip into the subconscious.
+      Good for 'overload induction' where you bombard the subject with unpredictable stimuli.
+
+    Picks a random subset of items.
+    """
+
+    def __init__(self, items: List[Dict], num_items: int):
+        super().__init__(items)
+        self.num_items = num_items
 
     def get_sequence(self) -> List[Dict]:
-        if not self.lines:
+        if not self.items:
             return []
-        return random.sample(self.lines, min(self.num_lines, len(self.lines)))
+        return random.sample(self.items, min(self.num_items, len(self.items)))
