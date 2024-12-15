@@ -1,6 +1,5 @@
-
-#main loop - repeat x5
-@type deepener
+#NAME Total Control Deepener
+#DESCRIPTION This deepener takes the subject into an immersive state of submission and obedience, where resistance fades completely. The voice becomes the sole authority in their mind, replacing thoughts and beliefs with absolute compliance. Through repetitive affirmations, the subject is conditioned to find pleasure in obedience, deepening their hypnotic state and creating a cycle of dependency on listening and following commands.
 you are going so deep now.
 deeper than you have been before.
 I am taking you deeper.
@@ -73,8 +72,8 @@ Listen again for me.
 Obey me now and go deep.
 
 
-#ending segment:
-@type deepener
+#NAME Rewriting Submission Outro
+#DESCRIPTION This outro solidifies the subject’s conditioning, reinforcing feelings of safety, trust, and surrender. It encourages the subject to embrace their reprogramming and find peace in forgetting old resistance, allowing themselves to fall into a state of deep obedience. The segment leaves the subject relaxed, secure, and fully immersed in their role as a compliant and devoted servant.
 Obey and forget.
 just go blank for me.
 Master knows best.

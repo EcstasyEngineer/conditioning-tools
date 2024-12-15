@@ -1,6 +1,5 @@
-
-#introduction:
-@type induction
+#NAME Fragmented Mind Deepener
+#DESCRIPTION This deepener gently dismantles the subject’s conscious thoughts, leaving their mind open, blank, and pliant. By guiding the subject to relax and let go of their own thinking, it encourages a deep state of surrender. The process creates a safe, calm space where the subject becomes fully receptive to the voice and the guidance it provides.
 Listen to my words.
 Focus, on my words.
 We're going to break your mind a little bit.
@@ -70,8 +69,8 @@ Because the outside world is so confusing.
 Because the outside world is simply not real.
 I can tell you what is real. 
 
-#Master-less:
-@type theme
+#NAME Identity Reconstruction Conditioning
+#DESCRIPTION This conditioning segment dismantles the subject’s sense of self and reality, replacing confusion and falsehoods with a new reality rooted in obedience and submission. The focus is on reshaping the subject’s perception so that they find pleasure and purpose in surrender, accepting new truths while discarding false memories or resistance.
 You're not real.
 Relaxing and going deeper.
 Relaxing and accepting my words.
@@ -140,8 +139,8 @@ You need this so much.
 You will be real soon.
 But You're not real yet.
 	
-#Corrupted Cooperation:
-@type theme
+#NAME Reality Validation Exercise
+#DESCRIPTION This segment uses a step-by-step exercise to clarify the subject’s confusion about their reality. By identifying false memories or beliefs and replacing them with truths provided by the speaker, the subject gains reassurance and confidence in their new perspective. This process strengthens their trust in the voice while reinforcing their identity as obedient and submissive.
 And we can figure this out together.
 You're so confused.
 But we can help.
@@ -191,8 +190,8 @@ But there are parts of you that are still not real.
 We can help you.
 	
 	
-#Old self antagonism:
-@type theme
+#NAME Purging False Memories
+#DESCRIPTION This segment helps the subject release their old, corrupted sense of self, discarding false memories and embracing a new identity. By repeatedly encouraging the subject to let go of the past and focus on becoming “real,” this process fosters a sense of clarity and enlightenment through obedience and submission.
 And your old self has tried to confuse you.
 They tried to fill your mind with these fake memories.
 They tried to fill your mind with fake thoughts.
