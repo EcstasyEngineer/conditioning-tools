@@ -40,48 +40,6 @@ The Hypnosis Content Generation Application serves as an engine that generates d
 
 ### Installation
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/username/hypnosis-content-generation-app.git
-   cd hypnosis-content-generation-app
-   ```
-
-2. **Install dependencies**:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Set up environment variables**:
-   - Copy `.env.example` to `.env` and fill in your configuration:
-     ```bash
-     cp .env.example .env
-     ```
-
-4. **Initialize the database**:
-   - For SQLite:
-     ```bash
-     python app/database/init_db.py
-     ```
-   - For PostgreSQL, update the `.env` with your database connection string, then run:
-     ```bash
-     python app/database/init_db.py
-     ```
-
-5. **Run the Application**:
-   ```bash
-   python run.py
-   ```
-
-## Usage
-
-The application can be accessed through multiple interfaces:
-
-### Web Interface
-
-1. Open a web browser and navigate to `http://localhost:5000`.
-2. Log in or create a user profile.
-3. Select your preferences and start a hypnosis session.
-
 ## Development
 
 This project is designed to be modular and extendable. You can add new themes, session types, and integrations as needed.
