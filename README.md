@@ -82,24 +82,6 @@ The application can be accessed through multiple interfaces:
 2. Log in or create a user profile.
 3. Select your preferences and start a hypnosis session.
 
-### Discord Bot
-
-1. Invite the bot to your Discord server.
-2. Interact with the bot using commands like `!start_session`.
-
-### VRChat
-
-1. Join the custom VRChat world (link provided).
-2. Use the in-world interface to select themes and begin a session.
-
-### Local Application
-
-1. Run the local renderer:
-   ```bash
-   python app/local_renderer.py
-   ```
-2. Follow the on-screen instructions to start a session.
-
 ## Development
 
 This project is designed to be modular and extendable. You can add new themes, session types, and integrations as needed.
@@ -127,10 +109,6 @@ This project is designed to be modular and extendable. You can add new themes, s
 ```bash
 python -m unittest discover tests
 ```
-
-## Contributing
-
-Contributions are welcome! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
 
 ## License
 
