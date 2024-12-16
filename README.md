@@ -63,7 +63,8 @@ This session focuses on improving the subject’s daily productivity and encoura
 | Habit Reinforcement | 4 min    | Suggestibility + Devotion | Composite | Random  | (none, mantra only)      |
 | Empowered Outlook   | 3 min    | Confidence + Pride | Layered    | Weave      | Final empowerment script  |
 
-
+For a more exhaustive list, [`Click Here`](Example_Sessions.md)  
+For more details on the formal session grammar, [`Click Here`](Session_Grammar.md)
 
 ## Backend Components
 
@@ -79,19 +80,6 @@ fixme
 - Required libraries can be installed from `requirements.txt`.
 - SQLite or PostgreSQL for the database.
 - AWS account for Polly integration.
-
-### Installation
-fixme  
-
-## Development
-
-This project is designed to be modular and extendable. You can add new themes, session types, and integrations as needed.
-
-### Running Tests
-
-```bash
-python -m unittest discover tests
-```
 
 ## License
 
