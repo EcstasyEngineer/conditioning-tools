@@ -61,3 +61,6 @@ Focuses on power dynamics, control, and authority. Content here explores themes 
 - `Obedience` – relating to following orders in a power dynamic  
 - `Surrender` – giving up control to another  
 - `Worship` – one party reverently venerating another
+
+---
+![Theme Categories](Theme_Categories.png)
