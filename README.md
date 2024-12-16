@@ -18,7 +18,51 @@ The Hypnosis Content Generation Application serves as an engine that generates d
 ## User Interface
 todo (mantra builder, line builder, session builder, session player)
 
-## Use Cases
+## Example Sessions
+
+### **Somnophilia and Ego Loss Marriage**
+
+**Description:**  
+This session guides the listener into a dreamy, sleep-like state (Somnophilia), then gently erodes their sense of self (Ego Loss) while instilling a sense of union or “marriage” to the experience. By the end, the participant feels deeply merged with the hypnotic suggestions and themes of devotion.
+
+| Phase            | Duration | Theme(s)                 | Player        | Cycler        | Script Segment?          |
+|------------------|----------|--------------------------|---------------|---------------|--------------------------|
+| Induction         | 2 min    | Relaxation               | Direct        | Chain         | Intro relaxation script  |
+| Drift into Sleep  | 3 min    | Somnophilia + Acceptance | TriChamber    | Adaptive      | (none, mantra only)      |
+| Dissolving Self   | 4 min    | Ego Loss + Confusion     | Rotational    | Cluster       | Ego-loss deepener script |
+| Unified Devotion  | 3 min    | Somnophilia + Worship    | Composite     | Random        | (none, mantra only)      |
+| Final Merge       | 3 min    | Ego Loss + Devotion      | Layered       | Weave         | Final marriage script    |
+
+---
+
+### **Latex Drone Enslavement**
+
+**Description:**  
+The subject is introduced to a scenario where they become a compliant latex-clad drone. Early phases use drone identity and obedience themes, moving into a state of total, almost mechanical servitude.
+
+| Phase             | Duration | Theme(s)              | Player      | Cycler    | Script Segment?          |
+|-------------------|----------|-----------------------|-------------|-----------|--------------------------|
+| Conditioning Start | 2 min    | Submission + Drone     | Direct      | Chain     | (none, mantra only)      |
+| Latex Identity     | 3 min    | Drone + Overload       | TriChamber  | Adaptive  | Latex induction script   |
+| Enslavement Core   | 4 min    | Obedience + Brainwashing | Rotational | Cluster | (none, mantra only)      |
+| Mechanical Reinforcement | 3 min | Drone + Mindbreak  | Composite   | Random    | Drone obedience script   |
+| Final Integration  | 3 min    | Surrender + Slave      | Layered     | Weave     | (none, mantra only)      |
+
+---
+
+### **Productivity and Fitness Regimen**
+
+**Description:**  
+This session focuses on improving the subject’s daily productivity and encouraging a consistent fitness routine. It starts with a relaxing induction, leads into motivating suggestions, and ends with reinforcing new habits.
+
+| Phase               | Duration | Theme(s)           | Player     | Cycler     | Script Segment?          |
+|---------------------|----------|--------------------|------------|------------|--------------------------|
+| Calm Focus          | 2 min    | Relaxation + Focus | Direct     | Chain      | (none, mantra only)      |
+| Motivating Routine  | 3 min    | Productivity + Affirmation | TriChamber | Adaptive | Productivity script |
+| Fitness Encouragement | 3 min  | Fitness + Discipline | Rotational | Cluster   | (none, mantra only)      |
+| Habit Reinforcement | 4 min    | Suggestibility + Devotion | Composite | Random  | (none, mantra only)      |
+| Empowered Outlook   | 3 min    | Confidence + Pride | Layered    | Weave      | Final empowerment script  |
+
 
 
 ## Backend Components
@@ -42,25 +86,6 @@ fixme
 ## Development
 
 This project is designed to be modular and extendable. You can add new themes, session types, and integrations as needed.
-
-### Directory Structure
-
-- `app/`: Contains the main application code.
-  - `api/`: API endpoints for session data retrieval.
-  - `database/`: Database models and initialization scripts.
-  - `discord_bot/`: Code for the Discord bot integration.
-  - `static/`: Static files for the web interface.
-    - `css/`: CSS stylesheets.
-    - `js/`: JavaScript files.
-    - `images/`: Image assets.
-  - `templates/`: HTML templates for the web interface.
-  - `utils/`: Utility functions and helper classes.
-- `data/`: Data files for themes, text, audio, and images.
-  - `preconverted/`: Input files before processing.
-  - `converted/`: Processed files ready for use.
-- `tests/`: Unit tests for the application.
-- `run.py`: Entry point to run the application.
-fixme  
 
 ### Running Tests
 
