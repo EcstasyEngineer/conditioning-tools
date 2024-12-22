@@ -1,0 +1,65 @@
+{
+    "prompt": {
+        "high_level_instructions": "You are to generate hypnotic mantra lines in JSON format, each line describing a short hypnotic statement. Each generated line should be a single JSON object on its own line.",
+        "theme": "{THEME}",
+        "description": "{DESCRIPTION}",
+        "category": "{CATEGORY}", 
+        "conditions": {
+            "dominant_reference_ratio": "{DOMINANT_REFERENCE_RATIO}", 
+            "difficulties": {
+                "BASIC": "{BASIC_COUNT}",
+                "LIGHT": "{LIGHT_COUNT}",
+                "MODERATE": "{MODERATE_COUNT}",
+                "DEEP": "{DEEP_COUNT}",
+                "EXTREME": "{EXTREME_COUNT}"
+            },
+            "persona": {
+                "with_dominant": "Master",
+                "with_submissive": "Bambi"
+            },
+            "perspective_variation": true,
+            "dominant_reference_flag": {
+                "Dom": "Lines with direct reference to 'Master'.",
+                "NoDom": "Lines without mention of 'Master', focusing on internal experience."
+            },
+            "category_modifiers": {
+                "Experience": "Incorporate at least one sensory descriptor (visual, auditory, kinesthetic) to enhance the emotional or sensory aspect.",
+                "Hypnosis": "Use trance-related language (drift, descend, soften) and deepening suggestions.",
+                "Identity": "Refer to roles or personas, possibly using titles like 'this doll' or referring to the submissive in third person.",
+                "Personality": "Emphasize internal traits (e.g., 'eager', 'committed', 'vulnerable') that define character.",
+                "Behavior": "Mention actions, habits, or compliance in daily routines.",
+                "Ds": "Highlight power dynamics, authority, and submission. Use 'Master' more frequently."
+            },
+            "intensity_scaling": "As difficulty increases from BASIC to EXTREME, lines should show increased intensity, depth of trance/submission, or emotional impact.",
+            "opposites_and_contrasts": "When referencing the dominant figure, consider lines that contrast life with and without dominance to increase variety.",
+            "consistent_format": "Output each generated line as a JSON object with fields: type, line, theme, dominant, submissive, difficulty.",
+            "fields_definition": {
+                "type": "Always 'audio'.",
+                "line": "The mantra line itself.",
+                "theme": "Use the {THEME} string.",
+                "dominant": "If 'Dom', put 'Master', if 'NoDom', leave the line internal or mention no dominant.",
+                "submissive": "Always 'Bambi' in third-person references. In first-person lines, use 'I' or 'me'.",
+                "difficulty": "One of BASIC, LIGHT, MODERATE, DEEP, EXTREME."
+            }
+        }
+    },
+    "example_output_lines": [
+        {
+            "type": "audio",
+            "line": "Bambi's memory is hazy; Master knows the truth.",
+            "theme": "Gaslighting",
+            "dominant": "Master",
+            "submissive": "Bambi",
+            "difficulty": "BASIC"
+        },
+        {
+            "type": "audio",
+            "line": "I find comfort in my new role, knowing Master guides me.",
+            "theme": "Obedience",
+            "dominant": "Master",
+            "submissive": "Bambi",
+            "difficulty": "MODERATE"
+        }
+    ],
+    "generation_notes": "Replace placeholders with actual values and generate the specified number of lines. Each line should be independently output as a JSON object on its own line without additional formatting or headers."
+}
