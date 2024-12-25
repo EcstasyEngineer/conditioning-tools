@@ -1,6 +1,6 @@
 import os
 from theme_pool import ThemePool, load_json_into_pool
-from filter_criteria import FilterCriteria
+from filters import FilterCriteria
 from src.config import AUDIO_DIR, THEMES_DIR, OUTPUT_FILE, CHOSEN_THEME, DOMINANT_WHITELIST, NUM_LINES
 from src.cyclers.random_cycler import RandomCycler
 from src.players.stereo_split import StereoSplitPlayer
