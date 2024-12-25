@@ -1,23 +1,29 @@
-from src.data_loader import load_all_lines
-from src.filters import filter_lines
+import os
+from theme_pool import ThemePool, load_json_into_pool
+from filter_criteria import FilterCriteria
 from src.config import AUDIO_DIR, THEMES_DIR, OUTPUT_FILE, CHOSEN_THEME, DOMINANT_WHITELIST, NUM_LINES
-
 from src.cyclers.random_cycler import RandomCycler
 from src.players.stereo_split import StereoSplitPlayer
 
 if __name__ == "__main__":
-    # Load lines
-    all_lines = load_all_lines(THEMES_DIR)
+    # Create a ThemePool
+    pool = ThemePool()
 
-    # Filter lines
-    filtered_lines = filter_lines(all_lines, CHOSEN_THEME, DOMINANT_WHITELIST)
+    # Load JSON files from THEMES_DIR
+    for filename in os.listdir(THEMES_DIR):
+        if filename.endswith(".json"):
+            load_json_into_pool(os.path.join(THEMES_DIR, filename), pool)
 
-    if not filtered_lines:
+    # Apply filter criteria
+    criteria = FilterCriteria(theme=CHOSEN_THEME, dominant_whitelist=DOMINANT_WHITELIST)
+    filtered_pool = pool.subset(criteria)
+
+    if not filtered_pool.items:
         print("No lines found for the given theme and filters.")
         exit(0)
 
     # Use a RandomCycler
-    cycler = RandomCycler(filtered_lines, NUM_LINES)
+    cycler = RandomCycler(filtered_pool.items, NUM_LINES)
     sequence = cycler.get_sequence()
 
     # Use a StereoSplitPlayer
