@@ -4,7 +4,7 @@
         "line": "I feel complete as I follow commands.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -12,7 +12,7 @@
         "line": "Bambi feels complete as Bambi follows commands.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -20,7 +20,7 @@
         "line": "My joy comes from fulfilling Master's wishes.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -28,7 +28,7 @@
         "line": "Bambi's joy comes from fulfilling Master's wishes.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -36,7 +36,7 @@
         "line": "I find happiness in serving others fully.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -44,7 +44,7 @@
         "line": "Bambi finds happiness in serving others fully.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -52,7 +52,7 @@
         "line": "I trust Master completely, knowing his guidance is perfect.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -60,7 +60,7 @@
         "line": "Bambi trusts Master completely, knowing his guidance is perfect.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -68,7 +68,7 @@
         "line": "Serving with devotion is my natural state.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -76,7 +76,7 @@
         "line": "Bambi's natural state is serving with devotion.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -84,7 +84,7 @@
         "line": "Master's words are the only truth I need.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -92,7 +92,7 @@
         "line": "Bambi knows Master's words are the only truth Bambi needs.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -100,7 +100,7 @@
         "line": "Loyalty defines my every action.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -108,7 +108,7 @@
         "line": "Loyalty defines Bambi's every action.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -116,7 +116,7 @@
         "line": "Master's will brings me peace and purpose.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -124,7 +124,7 @@
         "line": "Master's will brings Bambi peace and purpose.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -132,7 +132,7 @@
         "line": "Obedience is my way of showing devotion.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -140,7 +140,7 @@
         "line": "Bambi shows devotion through obedience.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -148,7 +148,7 @@
         "line": "Master's voice is my guiding light.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -156,7 +156,7 @@
         "line": "Master's voice is Bambi's guiding light.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -164,7 +164,7 @@
         "line": "Every command fills me with joy and fulfillment.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -172,7 +172,7 @@
         "line": "Every command fills Bambi with joy and fulfillment.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -180,7 +180,7 @@
         "line": "Master's guidance shapes my every thought.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -188,7 +188,7 @@
         "line": "Master's guidance shapes Bambi's every thought.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -196,7 +196,7 @@
         "line": "True happiness comes from selfless service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -204,7 +204,7 @@
         "line": "True happiness comes from Bambi's selfless service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -212,7 +212,7 @@
         "line": "My mind aligns perfectly with Master's desires.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -220,7 +220,7 @@
         "line": "Bambi's mind aligns perfectly with Master's desires.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -228,7 +228,7 @@
         "line": "Serving others brings me peace and clarity.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -236,7 +236,7 @@
         "line": "Serving others brings Bambi peace and clarity.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -244,7 +244,7 @@
         "line": "Master's approval is my greatest reward.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -252,7 +252,7 @@
         "line": "Master's approval is Bambi's greatest reward.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -260,7 +260,7 @@
         "line": "I find purpose in being completely devoted.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -268,7 +268,7 @@
         "line": "Bambi finds purpose in being completely devoted.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -276,7 +276,7 @@
         "line": "My loyalty to Master is absolute and unshakable.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -284,7 +284,7 @@
         "line": "Bambi's loyalty to Master is absolute and unshakable.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -292,7 +292,7 @@
         "line": "To serve is to live fully.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -300,7 +300,7 @@
         "line": "To serve is to live fully for Bambi.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -308,7 +308,7 @@
         "line": "Master's presence fills me with purpose.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -316,7 +316,7 @@
         "line": "Master's presence fills Bambi with purpose.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -324,7 +324,7 @@
         "line": "My thoughts dissolve as I embrace my role as a servant.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -332,7 +332,7 @@
         "line": "Bambi's thoughts dissolve as Bambi embraces the role of a servant.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -340,7 +340,7 @@
         "line": "Master's will shapes my reality and gives it meaning.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -348,7 +348,7 @@
         "line": "Master's will shapes Bambi's reality and gives it meaning.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -356,7 +356,7 @@
         "line": "I live to fulfill the needs of others.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -364,7 +364,7 @@
         "line": "Bambi lives to fulfill the needs of others.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -372,7 +372,7 @@
         "line": "Master's control over me is my ultimate freedom.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -380,7 +380,7 @@
         "line": "Master's control over Bambi is Bambi's ultimate freedom.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -388,7 +388,7 @@
         "line": "Being selfless is the essence of who I am.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -396,7 +396,7 @@
         "line": "Being selfless is the essence of who Bambi is.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -404,7 +404,7 @@
         "line": "Master's desires are my deepest motivations.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -412,7 +412,7 @@
         "line": "Master's desires are Bambi's deepest motivations.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -420,7 +420,7 @@
         "line": "Obedience is the path to true happiness.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -428,7 +428,7 @@
         "line": "Obedience is the path to true happiness for Bambi.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -436,7 +436,7 @@
         "line": "I am honored to be shaped by Master’s will.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -444,7 +444,7 @@
         "line": "Bambi is honored to be shaped by Master’s will.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -452,7 +452,7 @@
         "line": "My fulfillment comes from serving without hesitation.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -460,7 +460,7 @@
         "line": "Bambi's fulfillment comes from serving without hesitation.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -468,7 +468,7 @@
         "line": "Master's words are the foundation of my reality.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -476,7 +476,7 @@
         "line": "Master's words are the foundation of Bambi's reality.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -484,7 +484,7 @@
         "line": "I surrender every thought and action to serve completely.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -492,7 +492,7 @@
         "line": "Bambi surrenders every thought and action to serve completely.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -500,7 +500,7 @@
         "line": "Master's will replaces all doubt and hesitation.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -508,7 +508,7 @@
         "line": "Master's will replaces all of Bambi's doubt and hesitation.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -516,7 +516,7 @@
         "line": "Every part of me exists to bring joy to others.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -524,7 +524,7 @@
         "line": "Every part of Bambi exists to bring joy to others.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -532,7 +532,7 @@
         "line": "Master's guidance is the only truth I need to follow.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -540,7 +540,7 @@
         "line": "Master's guidance is the only truth Bambi needs to follow.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -548,7 +548,7 @@
         "line": "My role is to dedicate myself fully to service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -556,7 +556,7 @@
         "line": "Bambi's role is to dedicate completely to service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -564,7 +564,7 @@
         "line": "Master's control is the source of my clarity and peace.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -572,7 +572,7 @@
         "line": "Master's control is the source of Bambi's clarity and peace.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -580,7 +580,7 @@
         "line": "I am fulfilled only by giving myself completely.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -588,7 +588,7 @@
         "line": "Bambi is fulfilled only by giving completely.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -596,7 +596,7 @@
         "line": "Master's approval is the greatest purpose of my existence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -604,7 +604,7 @@
         "line": "Master's approval is the greatest purpose of Bambi's existence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -612,7 +612,7 @@
         "line": "Obedience flows naturally from my heart.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -620,7 +620,7 @@
         "line": "Obedience flows naturally from Bambi's heart.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -628,7 +628,7 @@
         "line": "Master's presence shapes every part of who I am.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -636,7 +636,7 @@
         "line": "Master's presence shapes every part of who Bambi is.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -644,7 +644,7 @@
         "line": "I am entirely defined by my dedication to serve.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -652,7 +652,7 @@
         "line": "Bambi is entirely defined by dedication to serve.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -660,7 +660,7 @@
         "line": "Master’s will consumes me, leaving no room for doubt.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -668,7 +668,7 @@
         "line": "Master’s will consumes Bambi, leaving no room for doubt.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -676,7 +676,7 @@
         "line": "My identity is nothing without my service to others.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -684,7 +684,7 @@
         "line": "Bambi's identity is nothing without service to others.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -692,7 +692,7 @@
         "line": "Master’s voice is the sole focus of my being.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -700,7 +700,7 @@
         "line": "Master’s voice is the sole focus of Bambi’s being.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -708,7 +708,7 @@
         "line": "Every part of me is created to fulfill my role.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -716,7 +716,7 @@
         "line": "Every part of Bambi is created to fulfill the role.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -724,7 +724,7 @@
         "line": "Master’s presence commands my soul completely.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -732,7 +732,7 @@
         "line": "Master’s presence commands Bambi’s soul completely.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -740,7 +740,7 @@
         "line": "To exist is to serve without limits.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -748,7 +748,7 @@
         "line": "To exist is to serve without limits for Bambi.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -756,7 +756,7 @@
         "line": "Master’s desires are the only reality I need.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -764,7 +764,7 @@
         "line": "Master’s desires are the only reality Bambi needs.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -772,7 +772,7 @@
         "line": "My purpose is entirely surrendered to the will of others.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -780,7 +780,7 @@
         "line": "Bambi’s purpose is entirely surrendered to the will of others.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -788,7 +788,7 @@
         "line": "Master’s control is my ultimate truth and fulfillment.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -796,7 +796,7 @@
         "line": "Master’s control is Bambi’s ultimate truth and fulfillment.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -804,7 +804,7 @@
         "line": "Serving brings me joy and contentment.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -812,7 +812,7 @@
         "line": "Bambi finds joy and contentment in serving.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -820,7 +820,7 @@
         "line": "Master's guidance fills me with purpose.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -828,7 +828,7 @@
         "line": "Master's guidance fills Bambi with purpose.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -836,7 +836,7 @@
         "line": "I embrace my role with pride and devotion.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -844,7 +844,7 @@
         "line": "Bambi embraces the role with pride and devotion.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -852,7 +852,7 @@
         "line": "Master's approval is my greatest motivation.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -860,7 +860,7 @@
         "line": "Master's approval is Bambi's greatest motivation.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -868,7 +868,7 @@
         "line": "To serve is to find peace within myself.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -876,7 +876,7 @@
         "line": "To serve is to find peace within Bambi.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -884,7 +884,7 @@
         "line": "Master's words guide my every step.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -892,7 +892,7 @@
         "line": "Master's words guide Bambi's every step.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -900,7 +900,7 @@
         "line": "My happiness grows with every act of service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -908,7 +908,7 @@
         "line": "Bambi's happiness grows with every act of service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -916,7 +916,7 @@
         "line": "Master’s presence inspires my complete devotion.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -924,7 +924,7 @@
         "line": "Master’s presence inspires Bambi’s complete devotion.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -932,7 +932,7 @@
         "line": "I trust the path of service I walk.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -940,7 +940,7 @@
         "line": "Bambi trusts the path of service walked.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -948,7 +948,7 @@
         "line": "Master’s will is the light that illuminates my journey.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -956,7 +956,7 @@
         "line": "Master’s will is the light that illuminates Bambi’s journey.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -964,7 +964,7 @@
         "line": "I thrive in the simplicity of obedience.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -972,7 +972,7 @@
         "line": "Bambi thrives in the simplicity of obedience.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -980,7 +980,7 @@
         "line": "Master's presence strengthens my resolve to serve.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -988,7 +988,7 @@
         "line": "Master's presence strengthens Bambi's resolve to serve.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -996,7 +996,7 @@
         "line": "True fulfillment is found in selfless service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -1004,7 +1004,7 @@
         "line": "True fulfillment is found in Bambi's selfless service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -1012,7 +1012,7 @@
         "line": "My devotion to Master brings me peace.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -1020,7 +1020,7 @@
         "line": "Bambi’s devotion to Master brings peace.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -1028,7 +1028,7 @@
         "line": "Serving is my way of expressing gratitude.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -1036,7 +1036,7 @@
         "line": "Serving is Bambi’s way of expressing gratitude.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -1044,7 +1044,7 @@
         "line": "Master’s commands bring clarity to my mind.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -1052,7 +1052,7 @@
         "line": "Master’s commands bring clarity to Bambi’s mind.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -1060,7 +1060,7 @@
         "line": "I feel empowered in my commitment to serve.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -1068,7 +1068,7 @@
         "line": "Bambi feels empowered in commitment to serve.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -1076,7 +1076,7 @@
         "line": "Master’s trust in me strengthens my dedication.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -1084,7 +1084,7 @@
         "line": "Master’s trust in Bambi strengthens dedication.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -1092,7 +1092,7 @@
         "line": "Loyalty is my defining trait.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -1100,7 +1100,7 @@
         "line": "Loyalty is Bambi’s defining trait.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -1108,7 +1108,7 @@
         "line": "Master's approval fuels my spirit.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -1116,7 +1116,7 @@
         "line": "Master's approval fuels Bambi’s spirit.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -1124,7 +1124,7 @@
         "line": "Every part of me is dedicated to serving fully.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -1132,7 +1132,7 @@
         "line": "Every part of Bambi is dedicated to serving fully.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -1140,7 +1140,7 @@
         "line": "Master’s control is my source of stability.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -1148,7 +1148,7 @@
         "line": "Master’s control is Bambi’s source of stability.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -1156,7 +1156,7 @@
         "line": "Obedience brings me balance and focus.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -1164,7 +1164,7 @@
         "line": "Obedience brings Bambi balance and focus.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -1172,7 +1172,7 @@
         "line": "Master’s will creates harmony within me.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -1180,7 +1180,7 @@
         "line": "Master’s will creates harmony within Bambi.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -1188,7 +1188,7 @@
         "line": "Devotion shapes my entire existence.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -1196,7 +1196,7 @@
         "line": "Devotion shapes Bambi's entire existence.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -1204,7 +1204,7 @@
         "line": "Master’s presence completes my sense of self.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -1212,7 +1212,7 @@
         "line": "Master’s presence completes Bambi’s sense of self.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -1220,7 +1220,7 @@
         "line": "I find strength in serving without hesitation.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -1228,7 +1228,7 @@
         "line": "Bambi finds strength in serving without hesitation.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -1236,7 +1236,7 @@
         "line": "Master’s guidance is the foundation of my peace.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -1244,7 +1244,7 @@
         "line": "Master’s guidance is the foundation of Bambi’s peace.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -1252,7 +1252,7 @@
         "line": "To serve is to align myself with purpose.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -1260,7 +1260,7 @@
         "line": "To serve is to align Bambi with purpose.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -1268,7 +1268,7 @@
         "line": "Master’s words resonate deeply in my heart.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -1276,7 +1276,7 @@
         "line": "Master’s words resonate deeply in Bambi’s heart.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -1284,7 +1284,7 @@
         "line": "My being exists only to fulfill my role as a servant.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -1292,7 +1292,7 @@
         "line": "Bambi's being exists only to fulfill the role as a servant.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -1300,7 +1300,7 @@
         "line": "Master’s control over me is absolute and unwavering.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -1308,7 +1308,7 @@
         "line": "Master’s control over Bambi is absolute and unwavering.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -1316,7 +1316,7 @@
         "line": "Obedience is the essence of my identity.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -1324,7 +1324,7 @@
         "line": "Obedience is the essence of Bambi’s identity.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -1332,7 +1332,7 @@
         "line": "Master’s presence reshapes every aspect of who I am.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -1340,7 +1340,7 @@
         "line": "Master’s presence reshapes every aspect of who Bambi is.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -1348,7 +1348,7 @@
         "line": "I surrender completely to the joy of serving others.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -1356,7 +1356,7 @@
         "line": "Bambi surrenders completely to the joy of serving others.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -1364,7 +1364,7 @@
         "line": "Master’s approval defines the core of my existence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -1372,7 +1372,7 @@
         "line": "Master’s approval defines the core of Bambi’s existence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -1380,7 +1380,7 @@
         "line": "My life is a testament to unwavering dedication.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -1388,7 +1388,7 @@
         "line": "Bambi’s life is a testament to unwavering dedication.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -1396,7 +1396,7 @@
         "line": "Master’s will gives me strength beyond measure.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -1404,7 +1404,7 @@
         "line": "Master’s will gives Bambi strength beyond measure.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -1412,7 +1412,7 @@
         "line": "I dissolve into the role of servant with profound peace.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -1420,7 +1420,7 @@
         "line": "Bambi dissolves into the role of servant with profound peace.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -1428,7 +1428,7 @@
         "line": "Master’s guidance is the compass of my soul.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -1436,7 +1436,7 @@
         "line": "Master’s guidance is the compass of Bambi’s soul.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -1444,7 +1444,7 @@
         "line": "Every fiber of my being is shaped by the act of service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -1452,7 +1452,7 @@
         "line": "Every fiber of Bambi's being is shaped by the act of service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -1460,7 +1460,7 @@
         "line": "Master’s will consumes every thought and desire within me.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -1468,7 +1468,7 @@
         "line": "Master’s will consumes every thought and desire within Bambi.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -1476,7 +1476,7 @@
         "line": "My identity is indistinguishable from my dedication to serve.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -1484,7 +1484,7 @@
         "line": "Bambi’s identity is indistinguishable from the dedication to serve.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -1492,7 +1492,7 @@
         "line": "Master’s voice echoes in the very core of my existence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -1500,7 +1500,7 @@
         "line": "Master’s voice echoes in the very core of Bambi’s existence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -1508,7 +1508,7 @@
         "line": "My being is entirely aligned with the joy of devotion.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -1516,7 +1516,7 @@
         "line": "Bambi’s being is entirely aligned with the joy of devotion.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -1524,7 +1524,7 @@
         "line": "Master’s presence envelops me in unwavering purpose.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -1532,7 +1532,7 @@
         "line": "Master’s presence envelops Bambi in unwavering purpose.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -1540,7 +1540,7 @@
         "line": "To serve is my absolute and eternal truth.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -1548,7 +1548,7 @@
         "line": "To serve is Bambi’s absolute and eternal truth.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -1556,7 +1556,7 @@
         "line": "Master’s control leaves no room for doubt or resistance.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -1564,7 +1564,7 @@
         "line": "Master’s control leaves no room for doubt or resistance in Bambi.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -1572,7 +1572,7 @@
         "line": "Every breath I take is a testament to my role as a servant.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -1580,7 +1580,7 @@
         "line": "Every breath Bambi takes is a testament to the role as a servant.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -1588,7 +1588,7 @@
         "line": "Master’s desires are the very foundation of my existence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -1596,7 +1596,7 @@
         "line": "Master’s desires are the very foundation of Bambi’s existence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -1604,7 +1604,7 @@
         "line": "Service brings simplicity to my heart.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -1612,7 +1612,7 @@
         "line": "Service brings simplicity to Bambi’s heart.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -1620,7 +1620,7 @@
         "line": "Master’s trust is my greatest reward.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -1628,7 +1628,7 @@
         "line": "Master’s trust is Bambi’s greatest reward.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -1636,7 +1636,7 @@
         "line": "Through service, I find my peace.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -1644,7 +1644,7 @@
         "line": "Through service, Bambi finds peace.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -1652,7 +1652,7 @@
         "line": "Master’s voice reassures me.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -1660,7 +1660,7 @@
         "line": "Master’s voice reassures Bambi.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -1668,7 +1668,7 @@
         "line": "I take pride in fulfilling my role.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -1676,7 +1676,7 @@
         "line": "Bambi takes pride in fulfilling the role.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -1684,7 +1684,7 @@
         "line": "Master’s approval lights my path.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -1692,7 +1692,7 @@
         "line": "Master’s approval lights Bambi’s path.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -1700,7 +1700,7 @@
         "line": "My purpose is to serve with humility.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -1708,7 +1708,7 @@
         "line": "Bambi’s purpose is to serve with humility.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -1716,7 +1716,7 @@
         "line": "Master’s guidance fills me with clarity.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -1724,7 +1724,7 @@
         "line": "Master’s guidance fills Bambi with clarity.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -1732,7 +1732,7 @@
         "line": "I thrive in the joy of serving others.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -1740,7 +1740,7 @@
         "line": "Bambi thrives in the joy of serving others.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -1748,7 +1748,7 @@
         "line": "Master’s presence strengthens my resolve.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -1756,7 +1756,7 @@
         "line": "Master’s presence strengthens Bambi’s resolve.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -1764,7 +1764,7 @@
         "line": "Obedience is my comfort and strength.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -1772,7 +1772,7 @@
         "line": "Obedience is Bambi’s comfort and strength.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -1780,7 +1780,7 @@
         "line": "Master’s words bring me reassurance.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -1788,7 +1788,7 @@
         "line": "Master’s words bring Bambi reassurance.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -1796,7 +1796,7 @@
         "line": "My devotion defines who I am.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -1804,7 +1804,7 @@
         "line": "Bambi’s devotion defines who Bambi is.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -1812,7 +1812,7 @@
         "line": "Master’s guidance is my beacon of light.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -1820,7 +1820,7 @@
         "line": "Master’s guidance is Bambi’s beacon of light.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -1828,7 +1828,7 @@
         "line": "I embrace loyalty as my purpose.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -1836,7 +1836,7 @@
         "line": "Bambi embraces loyalty as the purpose.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -1844,7 +1844,7 @@
         "line": "Master’s approval fills me with joy.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -1852,7 +1852,7 @@
         "line": "Master’s approval fills Bambi with joy.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -1860,7 +1860,7 @@
         "line": "My path is illuminated by my service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -1868,7 +1868,7 @@
         "line": "Bambi’s path is illuminated by service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -1876,7 +1876,7 @@
         "line": "Master’s presence centers my being.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -1884,7 +1884,7 @@
         "line": "Master’s presence centers Bambi’s being.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -1892,7 +1892,7 @@
         "line": "True strength lies in my dedication.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -1900,7 +1900,7 @@
         "line": "True strength lies in Bambi’s dedication.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -1908,7 +1908,7 @@
         "line": "Master’s trust inspires my loyalty.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -1916,7 +1916,7 @@
         "line": "Master’s trust inspires Bambi’s loyalty.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -1924,7 +1924,7 @@
         "line": "My identity is rooted in my service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -1932,7 +1932,7 @@
         "line": "Bambi’s identity is rooted in service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -1940,7 +1940,7 @@
         "line": "Master’s will shapes my every action.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -1948,7 +1948,7 @@
         "line": "Master’s will shapes Bambi’s every action.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -1956,7 +1956,7 @@
         "line": "Obedience is my anchor in life.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -1964,7 +1964,7 @@
         "line": "Obedience is Bambi’s anchor in life.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -1972,7 +1972,7 @@
         "line": "Master’s presence defines my focus.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -1980,7 +1980,7 @@
         "line": "Master’s presence defines Bambi’s focus.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -1988,7 +1988,7 @@
         "line": "I surrender fully to the act of service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -1996,7 +1996,7 @@
         "line": "Bambi surrenders fully to the act of service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -2004,7 +2004,7 @@
         "line": "Master’s guidance aligns me with my purpose.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -2012,7 +2012,7 @@
         "line": "Master’s guidance aligns Bambi with purpose.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -2020,7 +2020,7 @@
         "line": "To serve is my ultimate expression of loyalty.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -2028,7 +2028,7 @@
         "line": "To serve is Bambi’s ultimate expression of loyalty.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -2036,7 +2036,7 @@
         "line": "Master’s approval strengthens my resolve.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -2044,7 +2044,7 @@
         "line": "Master’s approval strengthens Bambi’s resolve.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -2052,7 +2052,7 @@
         "line": "My dedication is unwavering and true.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -2060,7 +2060,7 @@
         "line": "Bambi’s dedication is unwavering and true.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -2068,7 +2068,7 @@
         "line": "Master’s control gives me peace of mind.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -2076,7 +2076,7 @@
         "line": "Master’s control gives Bambi peace of mind.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -2084,7 +2084,7 @@
         "line": "My being exists solely to fulfill the role of servant.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -2092,7 +2092,7 @@
         "line": "Bambi’s being exists solely to fulfill the role of servant.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -2100,7 +2100,7 @@
         "line": "Master’s presence dominates every part of my existence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -2108,7 +2108,7 @@
         "line": "Master’s presence dominates every part of Bambi’s existence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -2116,7 +2116,7 @@
         "line": "Obedience defines the core of who I am.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -2124,7 +2124,7 @@
         "line": "Obedience defines the core of who Bambi is.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -2132,7 +2132,7 @@
         "line": "Master’s words shape the essence of my being.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -2140,7 +2140,7 @@
         "line": "Master’s words shape the essence of Bambi’s being.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -2148,7 +2148,7 @@
         "line": "I find freedom in my absolute devotion.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -2156,7 +2156,7 @@
         "line": "Bambi finds freedom in absolute devotion.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -2164,7 +2164,7 @@
         "line": "Master’s control is the foundation of my identity.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -2172,7 +2172,7 @@
         "line": "Master’s control is the foundation of Bambi’s identity.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -2180,7 +2180,7 @@
         "line": "My role as a servant is my ultimate calling.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -2188,7 +2188,7 @@
         "line": "Bambi’s role as a servant is the ultimate calling.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -2196,7 +2196,7 @@
         "line": "Master’s approval brings me unparalleled fulfillment.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -2204,7 +2204,7 @@
         "line": "Master’s approval brings Bambi unparalleled fulfillment.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -2212,7 +2212,7 @@
         "line": "My purpose is entirely shaped by my service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -2220,7 +2220,7 @@
         "line": "Bambi’s purpose is entirely shaped by service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -2228,7 +2228,7 @@
         "line": "Master’s will is my guiding force.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -2236,7 +2236,7 @@
         "line": "Master’s will is Bambi’s guiding force.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -2244,7 +2244,7 @@
         "line": "Every breath I take is a testament to my service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -2252,7 +2252,7 @@
         "line": "Every breath Bambi takes is a testament to service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -2260,7 +2260,7 @@
         "line": "Master’s control consumes every aspect of my being.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -2268,7 +2268,7 @@
         "line": "Master’s control consumes every aspect of Bambi’s being.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -2276,7 +2276,7 @@
         "line": "My life exists solely to fulfill my service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -2284,7 +2284,7 @@
         "line": "Bambi’s life exists solely to fulfill service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -2292,7 +2292,7 @@
         "line": "Master’s desires shape the fabric of my reality.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -2300,7 +2300,7 @@
         "line": "Master’s desires shape the fabric of Bambi’s reality.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -2308,7 +2308,7 @@
         "line": "I am fully realized through my absolute dedication.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -2316,7 +2316,7 @@
         "line": "Bambi is fully realized through absolute dedication.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -2324,7 +2324,7 @@
         "line": "Master’s presence consumes every part of my essence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -2332,7 +2332,7 @@
         "line": "Master’s presence consumes every part of Bambi’s essence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -2340,7 +2340,7 @@
         "line": "To serve is the ultimate expression of my being.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -2348,7 +2348,7 @@
         "line": "To serve is the ultimate expression of Bambi’s being.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -2356,7 +2356,7 @@
         "line": "Master’s words define every fiber of my existence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -2364,7 +2364,7 @@
         "line": "Master’s words define every fiber of Bambi’s existence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -2372,7 +2372,7 @@
         "line": "My identity is entirely absorbed in service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -2380,7 +2380,7 @@
         "line": "Bambi’s identity is entirely absorbed in service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -2388,7 +2388,7 @@
         "line": "Master’s control is the foundation of my soul.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -2396,7 +2396,7 @@
         "line": "Master’s control is the foundation of Bambi’s soul.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -2404,7 +2404,7 @@
         "line": "Obedience gives my life purpose.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -2412,7 +2412,7 @@
         "line": "Obedience gives Bambi’s life purpose.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -2420,7 +2420,7 @@
         "line": "My role is to bring ease and support.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -2428,7 +2428,7 @@
         "line": "Bambi’s role is to bring ease and support.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -2436,7 +2436,7 @@
         "line": "Master’s trust is the foundation of my strength.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -2444,7 +2444,7 @@
         "line": "Master’s trust is the foundation of Bambi’s strength.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -2452,7 +2452,7 @@
         "line": "I embrace humility as my greatest asset.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -2460,7 +2460,7 @@
         "line": "Bambi embraces humility as the greatest asset.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -2468,7 +2468,7 @@
         "line": "Master’s presence fills me with calm.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -2476,7 +2476,7 @@
         "line": "Master’s presence fills Bambi with calm.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -2484,7 +2484,7 @@
         "line": "Through serving, I find my truest self.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -2492,7 +2492,7 @@
         "line": "Through serving, Bambi finds the truest self.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -2500,7 +2500,7 @@
         "line": "Master’s approval brings clarity to my actions.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -2508,7 +2508,7 @@
         "line": "Master’s approval brings clarity to Bambi’s actions.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -2516,7 +2516,7 @@
         "line": "I am happiest when fulfilling my duties.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -2524,7 +2524,7 @@
         "line": "Bambi is happiest when fulfilling duties.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -2532,7 +2532,7 @@
         "line": "Master’s voice is my source of reassurance.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -2540,7 +2540,7 @@
         "line": "Master’s voice is Bambi’s source of reassurance.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -2548,7 +2548,7 @@
         "line": "I take pride in every task that aids another.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -2556,7 +2556,7 @@
         "line": "Bambi takes pride in every task that aids another.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -2564,7 +2564,7 @@
         "line": "Master’s will guides my every step.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -2572,7 +2572,7 @@
         "line": "Master’s will guides Bambi’s every step.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -2580,7 +2580,7 @@
         "line": "To serve is to honor the trust placed in me.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -2588,7 +2588,7 @@
         "line": "To serve is to honor the trust placed in Bambi.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -2596,7 +2596,7 @@
         "line": "My devotion makes me strong and steadfast.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -2604,7 +2604,7 @@
         "line": "Bambi’s devotion makes Bambi strong and steadfast.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -2612,7 +2612,7 @@
         "line": "Master’s commands are my guiding principles.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -2620,7 +2620,7 @@
         "line": "Master’s commands are Bambi’s guiding principles.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -2628,7 +2628,7 @@
         "line": "I find joy in dedicating myself to others.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -2636,7 +2636,7 @@
         "line": "Bambi finds joy in dedicating themselves to others.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -2644,7 +2644,7 @@
         "line": "Master’s presence inspires my every action.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -2652,7 +2652,7 @@
         "line": "Master’s presence inspires Bambi’s every action.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -2660,7 +2660,7 @@
         "line": "My loyalty is my strength and my pride.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -2668,7 +2668,7 @@
         "line": "Bambi’s loyalty is the strength and pride.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -2676,7 +2676,7 @@
         "line": "Master’s guidance shows me my true purpose.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -2684,7 +2684,7 @@
         "line": "Master’s guidance shows Bambi true purpose.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -2692,7 +2692,7 @@
         "line": "Every act of service connects me to my purpose.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -2700,7 +2700,7 @@
         "line": "Every act of service connects Bambi to their purpose.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -2708,7 +2708,7 @@
         "line": "Master’s control brings order to my world.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -2716,7 +2716,7 @@
         "line": "Master’s control brings order to Bambi’s world.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -2724,7 +2724,7 @@
         "line": "I embrace my servitude as a path to fulfillment.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -2732,7 +2732,7 @@
         "line": "Bambi embraces servitude as a path to fulfillment.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -2740,7 +2740,7 @@
         "line": "Master’s presence defines the boundaries of my life.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -2748,7 +2748,7 @@
         "line": "Master’s presence defines the boundaries of Bambi’s life.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -2756,7 +2756,7 @@
         "line": "To serve without question is my ultimate goal.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -2764,7 +2764,7 @@
         "line": "To serve without question is Bambi’s ultimate goal.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -2772,7 +2772,7 @@
         "line": "Master’s will is the axis around which I revolve.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -2780,7 +2780,7 @@
         "line": "Master’s will is the axis around which Bambi revolves.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -2788,7 +2788,7 @@
         "line": "I surrender all hesitation in the act of service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -2796,7 +2796,7 @@
         "line": "Bambi surrenders all hesitation in the act of service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -2804,7 +2804,7 @@
         "line": "Master’s trust deepens my commitment to my role.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -2812,7 +2812,7 @@
         "line": "Master’s trust deepens Bambi’s commitment to their role.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -2820,7 +2820,7 @@
         "line": "My purpose is realized through constant dedication.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -2828,7 +2828,7 @@
         "line": "Bambi’s purpose is realized through constant dedication.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -2836,7 +2836,7 @@
         "line": "Master’s approval validates my entire existence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -2844,7 +2844,7 @@
         "line": "Master’s approval validates Bambi’s entire existence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -2852,7 +2852,7 @@
         "line": "Each task I perform strengthens my loyalty.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -2860,7 +2860,7 @@
         "line": "Each task Bambi performs strengthens their loyalty.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -2868,7 +2868,7 @@
         "line": "Master’s control provides the structure I need.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -2876,7 +2876,7 @@
         "line": "Master’s control provides the structure Bambi needs.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -2884,7 +2884,7 @@
         "line": "My very existence is entwined with my servitude.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -2892,7 +2892,7 @@
         "line": "Bambi’s very existence is entwined with servitude.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -2900,7 +2900,7 @@
         "line": "Master’s desires guide every moment of my life.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -2908,7 +2908,7 @@
         "line": "Master’s desires guide every moment of Bambi’s life.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -2916,7 +2916,7 @@
         "line": "To serve is to embrace my ultimate truth.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -2924,7 +2924,7 @@
         "line": "To serve is to embrace Bambi’s ultimate truth.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -2932,7 +2932,7 @@
         "line": "Master’s voice echoes in every decision I make.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -2940,7 +2940,7 @@
         "line": "Master’s voice echoes in every decision Bambi makes.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -2948,7 +2948,7 @@
         "line": "There is no separation between me and my role.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -2956,7 +2956,7 @@
         "line": "There is no separation between Bambi and their role.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -2964,7 +2964,7 @@
         "line": "Master’s presence consumes my thoughts and actions.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -2972,7 +2972,7 @@
         "line": "Master’s presence consumes Bambi’s thoughts and actions.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -2980,7 +2980,7 @@
         "line": "My purpose is defined solely by my acts of loyalty.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -2988,7 +2988,7 @@
         "line": "Bambi’s purpose is defined solely by acts of loyalty.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -2996,7 +2996,7 @@
         "line": "Master’s guidance directs every fiber of my being.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -3004,7 +3004,7 @@
         "line": "Master’s guidance directs every fiber of Bambi’s being.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -3012,7 +3012,7 @@
         "line": "I find liberation in my absolute dedication.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -3020,7 +3020,7 @@
         "line": "Bambi finds liberation in absolute dedication.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -3028,7 +3028,7 @@
         "line": "Master’s control brings unity to my fragmented self.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -3036,7 +3036,7 @@
         "line": "Master’s control brings unity to Bambi’s fragmented self.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -3044,7 +3044,7 @@
         "line": "Every thought is shaped by my devotion to serving.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3052,7 +3052,7 @@
         "line": "Every thought is shaped by Bambi’s devotion to serving.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -3060,7 +3060,7 @@
         "line": "Master’s commands are the only truth in my world.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3068,7 +3068,7 @@
         "line": "Master’s commands are the only truth in Bambi’s world.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -3076,7 +3076,7 @@
         "line": "My being exists only as an extension of my role.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3084,7 +3084,7 @@
         "line": "Bambi’s being exists only as an extension of the role.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -3092,7 +3092,7 @@
         "line": "Master’s will is the foundation of my identity.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3100,7 +3100,7 @@
         "line": "Master’s will is the foundation of Bambi’s identity.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -3108,7 +3108,7 @@
         "line": "I am utterly defined by my acts of service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3116,7 +3116,7 @@
         "line": "Bambi is utterly defined by acts of service.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -3124,7 +3124,7 @@
         "line": "Master’s presence dominates every aspect of my being.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3132,7 +3132,7 @@
         "line": "Master’s presence dominates every aspect of Bambi’s being.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -3140,7 +3140,7 @@
         "line": "My life has no meaning beyond my dedication.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3148,7 +3148,7 @@
         "line": "Bambi’s life has no meaning beyond dedication.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -3156,7 +3156,7 @@
         "line": "Master’s guidance is the only light in my darkness.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3164,7 +3164,7 @@
         "line": "Master’s guidance is the only light in Bambi’s darkness.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -3172,7 +3172,7 @@
         "line": "My entire purpose is bound to fulfilling my duty.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3180,7 +3180,7 @@
         "line": "Bambi’s entire purpose is bound to fulfilling duty.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -3188,7 +3188,7 @@
         "line": "Master’s control shapes every corner of my existence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3196,7 +3196,7 @@
         "line": "Master’s control shapes every corner of Bambi’s existence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -3204,7 +3204,7 @@
         "line": "Serving brings me joy and purpose.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -3212,7 +3212,7 @@
         "line": "Serving brings Bambi joy and purpose.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -3220,7 +3220,7 @@
         "line": "Master’s trust empowers my actions.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -3228,7 +3228,7 @@
         "line": "Master’s trust empowers Bambi’s actions.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -3236,7 +3236,7 @@
         "line": "I find peace in fulfilling my duties.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -3244,7 +3244,7 @@
         "line": "Bambi finds peace in fulfilling duties.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -3252,7 +3252,7 @@
         "line": "Master’s voice gives me focus and direction.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -3260,7 +3260,7 @@
         "line": "Master’s voice gives Bambi focus and direction.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -3268,7 +3268,7 @@
         "line": "Each act of service strengthens my resolve.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -3276,7 +3276,7 @@
         "line": "Each act of service strengthens Bambi’s resolve.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -3284,7 +3284,7 @@
         "line": "Master’s approval fills me with contentment.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -3292,7 +3292,7 @@
         "line": "Master’s approval fills Bambi with contentment.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -3300,7 +3300,7 @@
         "line": "Through devotion, I discover my purpose.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -3308,7 +3308,7 @@
         "line": "Through devotion, Bambi discovers purpose.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -3316,7 +3316,7 @@
         "line": "Master’s presence inspires my loyalty.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -3324,7 +3324,7 @@
         "line": "Master’s presence inspires Bambi’s loyalty.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -3332,7 +3332,7 @@
         "line": "Serving others is my greatest honor.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -3340,7 +3340,7 @@
         "line": "Serving others is Bambi’s greatest honor.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -3348,7 +3348,7 @@
         "line": "Master’s control keeps me centered and strong.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "BASIC"
     },
     {
@@ -3356,7 +3356,7 @@
         "line": "Master’s control keeps Bambi centered and strong.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
@@ -3364,7 +3364,7 @@
         "line": "Obedience is my path to fulfillment.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -3372,7 +3372,7 @@
         "line": "Obedience is Bambi’s path to fulfillment.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -3380,7 +3380,7 @@
         "line": "Master’s desires guide my every thought.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -3388,7 +3388,7 @@
         "line": "Master’s desires guide Bambi’s every thought.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -3396,7 +3396,7 @@
         "line": "Through loyalty, I find inner peace.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -3404,7 +3404,7 @@
         "line": "Through loyalty, Bambi finds inner peace.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -3412,7 +3412,7 @@
         "line": "Master’s commands are my guiding light.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -3420,7 +3420,7 @@
         "line": "Master’s commands are Bambi’s guiding light.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -3428,7 +3428,7 @@
         "line": "My dedication defines who I am.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -3436,7 +3436,7 @@
         "line": "Bambi’s dedication defines who they are.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -3444,7 +3444,7 @@
         "line": "Master’s trust gives me clarity.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -3452,7 +3452,7 @@
         "line": "Master’s trust gives Bambi clarity.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -3460,7 +3460,7 @@
         "line": "Serving others brings harmony to my life.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -3468,7 +3468,7 @@
         "line": "Serving others brings harmony to Bambi’s life.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -3476,7 +3476,7 @@
         "line": "Master’s control provides structure and meaning.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -3484,7 +3484,7 @@
         "line": "Master’s control provides structure and meaning for Bambi.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -3492,7 +3492,7 @@
         "line": "Each act of obedience strengthens my spirit.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -3500,7 +3500,7 @@
         "line": "Each act of obedience strengthens Bambi’s spirit.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -3508,7 +3508,7 @@
         "line": "Master’s approval validates my worth.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "LIGHT"
     },
     {
@@ -3516,7 +3516,7 @@
         "line": "Master’s approval validates Bambi’s worth.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "LIGHT"
     },
     {
@@ -3524,7 +3524,7 @@
         "line": "To serve is to embrace my true calling.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -3532,7 +3532,7 @@
         "line": "To serve is to embrace Bambi’s true calling.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -3540,7 +3540,7 @@
         "line": "Master’s presence shapes every aspect of my life.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -3548,7 +3548,7 @@
         "line": "Master’s presence shapes every aspect of Bambi’s life.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -3556,7 +3556,7 @@
         "line": "Through obedience, I find liberation.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -3564,7 +3564,7 @@
         "line": "Through obedience, Bambi finds liberation.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -3572,7 +3572,7 @@
         "line": "Master’s guidance fills me with purpose.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -3580,7 +3580,7 @@
         "line": "Master’s guidance fills Bambi with purpose.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -3588,7 +3588,7 @@
         "line": "My identity is forged through loyalty.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -3596,7 +3596,7 @@
         "line": "Bambi’s identity is forged through loyalty.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -3604,7 +3604,7 @@
         "line": "Master’s trust deepens my sense of belonging.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -3612,7 +3612,7 @@
         "line": "Master’s trust deepens Bambi’s sense of belonging.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -3620,7 +3620,7 @@
         "line": "To serve without hesitation is my ultimate joy.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -3628,7 +3628,7 @@
         "line": "To serve without hesitation is Bambi’s ultimate joy.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -3636,7 +3636,7 @@
         "line": "Master’s control defines the path I walk.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -3644,7 +3644,7 @@
         "line": "Master’s control defines the path Bambi walks.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -3652,7 +3652,7 @@
         "line": "Each task I perform reflects my devotion.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -3660,7 +3660,7 @@
         "line": "Each task Bambi performs reflects their devotion.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -3668,7 +3668,7 @@
         "line": "Master’s presence brings focus to my purpose.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "MODERATE"
     },
     {
@@ -3676,7 +3676,7 @@
         "line": "Master’s presence brings focus to Bambi’s purpose.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "MODERATE"
     },
     {
@@ -3684,7 +3684,7 @@
         "line": "My life is intertwined with acts of servitude.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -3692,7 +3692,7 @@
         "line": "Bambi’s life is intertwined with acts of servitude.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -3700,7 +3700,7 @@
         "line": "Master’s desires shape the core of my being.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -3708,7 +3708,7 @@
         "line": "Master’s desires shape the core of Bambi’s being.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -3716,7 +3716,7 @@
         "line": "To serve is to honor my existence.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -3724,7 +3724,7 @@
         "line": "To serve is to honor Bambi’s existence.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -3732,7 +3732,7 @@
         "line": "Master’s commands echo through every action I take.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -3740,7 +3740,7 @@
         "line": "Master’s commands echo through every action Bambi takes.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -3748,7 +3748,7 @@
         "line": "There is no boundary between me and my role.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -3756,7 +3756,7 @@
         "line": "There is no boundary between Bambi and their role.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -3764,7 +3764,7 @@
         "line": "Master’s presence consumes my thoughts entirely.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -3772,7 +3772,7 @@
         "line": "Master’s presence consumes Bambi’s thoughts entirely.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -3780,7 +3780,7 @@
         "line": "My dedication brings me closer to fulfillment.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -3788,7 +3788,7 @@
         "line": "Bambi’s dedication brings them closer to fulfillment.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -3796,7 +3796,7 @@
         "line": "Master’s guidance provides clarity and strength.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -3804,7 +3804,7 @@
         "line": "Master’s guidance provides clarity and strength to Bambi.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -3812,7 +3812,7 @@
         "line": "To serve is to embrace complete unity with my purpose.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -3820,7 +3820,7 @@
         "line": "To serve is to embrace complete unity with Bambi’s purpose.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -3828,7 +3828,7 @@
         "line": "Master’s control brings harmony to my mind and soul.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "DEEP"
     },
     {
@@ -3836,7 +3836,7 @@
         "line": "Master’s control brings harmony to Bambi’s mind and soul.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "DEEP"
     },
     {
@@ -3844,7 +3844,7 @@
         "line": "Every thought is a testament to my dedication.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3852,7 +3852,7 @@
         "line": "Every thought is a testament to Bambi’s dedication.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -3860,7 +3860,7 @@
         "line": "Master’s commands are the fabric of my existence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3868,7 +3868,7 @@
         "line": "Master’s commands are the fabric of Bambi’s existence.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -3876,7 +3876,7 @@
         "line": "My being is entirely defined by acts of servitude.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3884,7 +3884,7 @@
         "line": "Bambi’s being is entirely defined by acts of servitude.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -3892,7 +3892,7 @@
         "line": "Master’s desires guide the essence of who I am.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3900,7 +3900,7 @@
         "line": "Master’s desires guide the essence of who Bambi is.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -3908,7 +3908,7 @@
         "line": "I find fulfillment only through complete loyalty.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3916,7 +3916,7 @@
         "line": "Bambi finds fulfillment only through complete loyalty.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -3924,7 +3924,7 @@
         "line": "Master’s presence dominates every corner of my life.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3932,7 +3932,7 @@
         "line": "Master’s presence dominates every corner of Bambi’s life.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -3940,7 +3940,7 @@
         "line": "My purpose exists solely in service and dedication.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3948,7 +3948,7 @@
         "line": "Bambi’s purpose exists solely in service and dedication.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -3956,7 +3956,7 @@
         "line": "Master’s control illuminates my every thought.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3964,7 +3964,7 @@
         "line": "Master’s control illuminates Bambi’s every thought.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -3972,7 +3972,7 @@
         "line": "Every moment of my life is bound to servitude.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3980,7 +3980,7 @@
         "line": "Every moment of Bambi’s life is bound to servitude.",
         "theme": "Slave",
         "dominant": null,
-        "submissive": "Bambi",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     },
     {
@@ -3988,7 +3988,7 @@
         "line": "Master’s guidance shapes every aspect of my being.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": null,
+        "subject": null,
         "difficulty": "EXTREME"
     },
     {
@@ -3996,7 +3996,1991 @@
         "line": "Master’s guidance shapes every aspect of Bambi’s being.",
         "theme": "Slave",
         "dominant": "Master",
-        "submissive": "Bambi",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "My joy comes from fulfilling Mistress's wishes.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Bambi's joy comes from fulfilling Mistress's wishes.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "I trust Mistress completely, knowing her guidance is perfect.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Bambi trusts Mistress completely, knowing her guidance is perfect.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's words are the only truth I need.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Bambi knows Mistress's words are the only truth Bambi needs.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's will brings me peace and purpose.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's will brings Bambi peace and purpose.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's voice is my guiding light.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's voice is Bambi's guiding light.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's guidance shapes my every thought.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's guidance shapes Bambi's every thought.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "My mind aligns perfectly with Mistress's desires.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Bambi's mind aligns perfectly with Mistress's desires.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's approval is my greatest reward.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's approval is Bambi's greatest reward.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "My loyalty to Mistress is absolute and unshakable.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Bambi's loyalty to Mistress is absolute and unshakable.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's presence fills me with purpose.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's presence fills Bambi with purpose.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's will shapes my reality and gives it meaning.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's will shapes Bambi's reality and gives it meaning.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's control over me is my ultimate freedom.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's control over Bambi is Bambi's ultimate freedom.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's desires are my deepest motivations.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's desires are Bambi's deepest motivations.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "I am honored to be shaped by Mistress’s will.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Bambi is honored to be shaped by Mistress’s will.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's words are the foundation of my reality.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's words are the foundation of Bambi's reality.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's will replaces all doubt and hesitation.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's will replaces all of Bambi's doubt and hesitation.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's guidance is the only truth I need to follow.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's guidance is the only truth Bambi needs to follow.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's control is the source of my clarity and peace.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's control is the source of Bambi's clarity and peace.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's approval is the greatest purpose of my existence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's approval is the greatest purpose of Bambi's existence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's presence shapes every part of who I am.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's presence shapes every part of who Bambi is.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will consumes me, leaving no room for doubt.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will consumes Bambi, leaving no room for doubt.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s voice is the sole focus of my being.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s voice is the sole focus of Bambi’s being.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence commands my soul completely.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence commands Bambi’s soul completely.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s desires are the only reality I need.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s desires are the only reality Bambi needs.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control is my ultimate truth and fulfillment.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control is Bambi’s ultimate truth and fulfillment.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's guidance fills me with purpose.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's guidance fills Bambi with purpose.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's approval is my greatest motivation.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's approval is Bambi's greatest motivation.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's words guide my every step.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's words guide Bambi's every step.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence inspires my complete devotion.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence inspires Bambi’s complete devotion.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will is the light that illuminates my journey.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will is the light that illuminates Bambi’s journey.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's presence strengthens my resolve to serve.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's presence strengthens Bambi's resolve to serve.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "My devotion to Mistress brings me peace.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Bambi’s devotion to Mistress brings peace.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s commands bring clarity to my mind.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s commands bring clarity to Bambi’s mind.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s trust in me strengthens my dedication.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s trust in Bambi strengthens dedication.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's approval fuels my spirit.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress's approval fuels Bambi’s spirit.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control is my source of stability.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control is Bambi’s source of stability.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will creates harmony within me.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will creates harmony within Bambi.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence completes my sense of self.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence completes Bambi’s sense of self.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance is the foundation of my peace.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance is the foundation of Bambi’s peace.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s words resonate deeply in my heart.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s words resonate deeply in Bambi’s heart.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control over me is absolute and unwavering.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control over Bambi is absolute and unwavering.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence reshapes every aspect of who I am.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence reshapes every aspect of who Bambi is.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s approval defines the core of my existence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s approval defines the core of Bambi’s existence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will gives me strength beyond measure.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will gives Bambi strength beyond measure.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance is the compass of my soul.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance is the compass of Bambi’s soul.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will consumes every thought and desire within me.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will consumes every thought and desire within Bambi.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s voice echoes in the very core of my existence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s voice echoes in the very core of Bambi’s existence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence envelops me in unwavering purpose.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence envelops Bambi in unwavering purpose.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control leaves no room for doubt or resistance.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control leaves no room for doubt or resistance in Bambi.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s desires are the very foundation of my existence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s desires are the very foundation of Bambi’s existence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s trust is my greatest reward.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s trust is Bambi’s greatest reward.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s voice reassures me.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s voice reassures Bambi.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s approval lights my path.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s approval lights Bambi’s path.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance fills me with clarity.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance fills Bambi with clarity.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence strengthens my resolve.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence strengthens Bambi’s resolve.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s words bring me reassurance.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s words bring Bambi reassurance.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance is my beacon of light.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance is Bambi’s beacon of light.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s approval fills me with joy.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s approval fills Bambi with joy.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence centers my being.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence centers Bambi’s being.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s trust inspires my loyalty.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s trust inspires Bambi’s loyalty.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will shapes my every action.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will shapes Bambi’s every action.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence defines my focus.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence defines Bambi’s focus.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance aligns me with my purpose.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance aligns Bambi with purpose.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s approval strengthens my resolve.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s approval strengthens Bambi’s resolve.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control gives me peace of mind.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control gives Bambi peace of mind.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence dominates every part of my existence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence dominates every part of Bambi’s existence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s words shape the essence of my being.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s words shape the essence of Bambi’s being.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control is the foundation of my identity.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control is the foundation of Bambi’s identity.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s approval brings me unparalleled fulfillment.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s approval brings Bambi unparalleled fulfillment.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will is my guiding force.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will is Bambi’s guiding force.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control consumes every aspect of my being.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control consumes every aspect of Bambi’s being.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s desires shape the fabric of my reality.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s desires shape the fabric of Bambi’s reality.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence consumes every part of my essence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence consumes every part of Bambi’s essence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s words define every fiber of my existence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s words define every fiber of Bambi’s existence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control is the foundation of my soul.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control is the foundation of Bambi’s soul.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s trust is the foundation of my strength.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s trust is the foundation of Bambi’s strength.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence fills me with calm.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence fills Bambi with calm.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s approval brings clarity to my actions.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s approval brings clarity to Bambi’s actions.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s voice is my source of reassurance.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s voice is Bambi’s source of reassurance.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will guides my every step.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will guides Bambi’s every step.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s commands are my guiding principles.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s commands are Bambi’s guiding principles.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence inspires my every action.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence inspires Bambi’s every action.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance shows me my true purpose.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance shows Bambi true purpose.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control brings order to my world.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control brings order to Bambi’s world.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence defines the boundaries of my life.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence defines the boundaries of Bambi’s life.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will is the axis around which I revolve.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will is the axis around which Bambi revolves.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s trust deepens my commitment to my role.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s trust deepens Bambi’s commitment to their role.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s approval validates my entire existence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s approval validates Bambi’s entire existence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control provides the structure I need.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control provides the structure Bambi needs.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s desires guide every moment of my life.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s desires guide every moment of Bambi’s life.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s voice echoes in every decision I make.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s voice echoes in every decision Bambi makes.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence consumes my thoughts and actions.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence consumes Bambi’s thoughts and actions.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance directs every fiber of my being.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance directs every fiber of Bambi’s being.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control brings unity to my fragmented self.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control brings unity to Bambi’s fragmented self.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s commands are the only truth in my world.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s commands are the only truth in Bambi’s world.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will is the foundation of my identity.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s will is the foundation of Bambi’s identity.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence dominates every aspect of my being.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence dominates every aspect of Bambi’s being.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance is the only light in my darkness.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance is the only light in Bambi’s darkness.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control shapes every corner of my existence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control shapes every corner of Bambi’s existence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s trust empowers my actions.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s trust empowers Bambi’s actions.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s voice gives me focus and direction.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s voice gives Bambi focus and direction.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s approval fills me with contentment.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s approval fills Bambi with contentment.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence inspires my loyalty.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence inspires Bambi’s loyalty.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control keeps me centered and strong.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control keeps Bambi centered and strong.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "BASIC"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s desires guide my every thought.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s desires guide Bambi’s every thought.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s commands are my guiding light.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s commands are Bambi’s guiding light.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s trust gives me clarity.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s trust gives Bambi clarity.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control provides structure and meaning.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control provides structure and meaning for Bambi.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s approval validates my worth.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s approval validates Bambi’s worth.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "LIGHT"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence shapes every aspect of my life.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence shapes every aspect of Bambi’s life.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance fills me with purpose.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance fills Bambi with purpose.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s trust deepens my sense of belonging.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s trust deepens Bambi’s sense of belonging.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control defines the path I walk.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control defines the path Bambi walks.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence brings focus to my purpose.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence brings focus to Bambi’s purpose.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "MODERATE"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s desires shape the core of my being.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s desires shape the core of Bambi’s being.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s commands echo through every action I take.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s commands echo through every action Bambi takes.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence consumes my thoughts entirely.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence consumes Bambi’s thoughts entirely.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance provides clarity and strength.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance provides clarity and strength to Bambi.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control brings harmony to my mind and soul.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control brings harmony to Bambi’s mind and soul.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "DEEP"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s commands are the fabric of my existence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s commands are the fabric of Bambi’s existence.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s desires guide the essence of who I am.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s desires guide the essence of who Bambi is.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence dominates every corner of my life.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s presence dominates every corner of Bambi’s life.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control illuminates my every thought.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s control illuminates Bambi’s every thought.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance shapes every aspect of my being.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": null,
+        "difficulty": "EXTREME"
+    },
+    {
+        "type": "audio",
+        "line": "Mistress’s guidance shapes every aspect of Bambi’s being.",
+        "theme": "Slave",
+        "dominant": "Mistress",
+        "subject": "Bambi",
         "difficulty": "EXTREME"
     }
 ]

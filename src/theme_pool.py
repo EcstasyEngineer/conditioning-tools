@@ -28,7 +28,7 @@ def load_json_into_pool(file_path: str, pool: ThemePool, is_picture=False):
                 theme=item.get("theme"),
                 difficulty=item.get("difficulty"),
                 dominant=item.get("dominant"),
-                submissive=item.get("submissive")
+                submissive=item.get("subject")
             ))
         else:
             new_items.append(PictureItem(
