@@ -3161,7 +3161,7 @@
     },
     {
         "type": "audio",
-        "line": "I return to what soothes me, even when I know it’s fleeting.",
+        "line": "I return to what soothes me, even when I know it's fleeting.",
         "theme": "Addiction",
         "dominant": null,
         "subject": null,
@@ -3169,7 +3169,7 @@
     },
     {
         "type": "audio",
-        "line": "Bambi returns to what soothes her, even when she knows it’s fleeting.",
+        "line": "Bambi returns to what soothes her, even when she knows it's fleeting.",
         "theme": "Addiction",
         "dominant": null,
         "subject": "Bambi",
@@ -5365,14 +5365,6 @@
         "theme": "Addiction",
         "dominant": "Mistress",
         "subject": null,
-        "difficulty": "BASIC"
-    },
-    {
-        "type": "audio",
-        "line": "Bambi's approval is her strongest motivation.",
-        "theme": "Addiction",
-        "dominant": "Mistress",
-        "subject": "Bambi",
         "difficulty": "BASIC"
     },
     {
