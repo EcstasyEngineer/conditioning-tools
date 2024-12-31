@@ -7,14 +7,14 @@ This project is a Python-based application designed to generate hypnosis content
 
 The Hypnosis Content Generation Application serves as an engine that generates dynamic and personalized hypnosis content through structured phases, each designed to guide the user deeper into a hypnotic experience. Key features include:
 
-- **Themes**: High-level hypnosis motifs such as submission, mind emptying, or roleplay identities, which influence the content and focus of each session. [More details](Themes/Themes.md)
-- **Phases**: Structured segments within each session that progress through hypnotic stages—starting with an induction, followed by deepeners, and then flowing into suggestion-focused phases based on the chosen themes. Each phase includes specific objectives, such as deepening trance, enhancing focus, or instilling particular suggestions, creating a cohesive journey for the user. [More details](src/cyclers_and_players_overview.md)
+- **Themes**: High-level hypnosis motifs such as submission, mind emptying, or roleplay identities, which influence the content and focus of each session. [More details](Docs/Themes.md)
+- **Phases**: Structured segments within each session that progress through hypnotic stages—starting with an induction, followed by deepeners, and then flowing into suggestion-focused phases based on the chosen themes. Each phase includes specific objectives, such as deepening trance, enhancing focus, or instilling particular suggestions, creating a cohesive journey for the user. [More details](Docs/cyclers_and_players_overview.md)
 - **Sessions**: Configurations that define the hypnosis experience, including selected themes, user preferences, difficulty levels, and duration. Sessions are composed of phases, ensuring a guided and adaptive flow tailored to individual goals.
 - **State Tracking**: The application constantly re-estimates the listener's arousal, focus, and depth.
   - **Arousal**: Increases if suggestive themes, or JOI state (green - increase slowly, purple increase fast). Cumulative. Plans for using heart rate data to fine tune this.
   - **Focus**: Depends on the theme (if theme calls attention), or if JOI state is in purple.
   - **Depth**: Depends on number of deepeners used recently.
-- **Adaptive Content**: Based on the state tracking, the application dynamically adjusts the content to better suit the listener's current state, ensuring a more effective and personalized hypnosis experience. [More details](Adaptive_Director.md)
+- **Adaptive Content**: Based on the state tracking, the application dynamically adjusts the content to better suit the listener's current state, ensuring a more effective and personalized hypnosis experience. [More details](Docs/Adaptive_Director.md)
 ## User Interface
 todo (mantra builder, line builder, session builder, session player)
 
@@ -63,12 +63,12 @@ This session focuses on improving the subject’s daily productivity and encoura
 | Habit Reinforcement | 4 min    | Suggestibility + Devotion | Composite | Random  | (none, mantra only)      |
 | Empowered Outlook   | 3 min    | Confidence + Pride | Layered    | Weave      | Final empowerment script  |
 
-For a more exhaustive list, [`Click Here`](Example_Sessions.md)  
-For more details on the formal session grammar, [`Click Here`](Session_Grammar.md)
+Click here for a more [`exhaustive list`](Docs/Example_Sessions.md)  
+Click here for a moreFor more details on the [`formal session grammar`](Docs/Session_Grammar.md)
 
 ## Backend Components
 
-- **Database**: Uses SQLite initially, with support for PostgreSQL. Stores text snippets, audio files, images, and user preferences.
+- **Database**: Uses SQLite, with support for PostgreSQL. Stores text snippets, audio files, images, and user preferences.
 - **API**: Manages session configuration and content retrieval. Supports secure data transfer and authentication.
 
 ## Getting Started
